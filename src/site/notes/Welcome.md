@@ -3,8 +3,6 @@
 ---
 
 
-dg-publish
-
 Vishram is a fractured world, somehow still holding itself together after the aftermath of the Age of Shattering. The Gods once worshipped, fear and depended upon are dead, silent, missing or have turned against their creations. Their absence has left scars not only on faith but reality itself. 
 
 The boundaries between planes have weaken. Fragments of other realms bleed into the the mundane plane (the material plane). 
