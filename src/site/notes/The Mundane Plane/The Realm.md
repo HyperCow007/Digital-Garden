@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/the-realm/","created":"2026-03-19T15:18:57.311+10:30","updated":"2026-04-09T10:06:12.182+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/the-realm/","created":"2026-03-19T15:18:57.311+10:30","updated":"2026-04-09T10:08:38.648+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -33,7 +33,7 @@ Regions:
 [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]]
 [[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights\|Sunstone Heights]]
 
-![Pasted image 20260409100611.png](/img/user/Pasted%20image%2020260409100611.png)
+![Pasted image 20260409100836.png](/img/user/Pasted%20image%2020260409100836.png)
 
 ## [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
 
