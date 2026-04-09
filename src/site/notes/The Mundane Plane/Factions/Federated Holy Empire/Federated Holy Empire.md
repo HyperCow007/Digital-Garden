@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-04-08T03:27:23.466+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-04-09T13:13:02.018+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -19,7 +19,7 @@ There are other import aspects, but these three are the core foundation.
 [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]] is highly contested, against [[Characters/Gods/Tiamat\|Tiamat]]'s forces currently. As its the only land crossing for the Northern Reach its highly valuable. However lower regions of The Mantle is under Tiamat's control. 
 
 ### Gilded Heart
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Aurelian Vale\|Aurelian Vale]], [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights\|Sunstone Heights]], [[The Solstice Reach\|The Solstice Reach]] are held by the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], as it is the seat of the Empire.
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Aurelian Vale\|Aurelian Vale]], [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights\|Sunstone Heights]], are held by the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], as it is the seat of the Empire.
 
 [[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire\|Dawnspire]] - The northern most part of the region, bordering the mountain range of  [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]], currently contested on the most northern sides.
 
