@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-08T03:25:05.323+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-09T10:24:41.277+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -48,7 +48,7 @@ There are internal rebellions from, isolationist and nationalist, but most of th
 ## The Founding of the Federated Holy Empire 
 *The Year 238
 
-A major symbolic shift, as the federation becomes an Empire. Not necessarily tyrannical more a sacred unified authority. As religious authority reinforces political unity. A Emperor was chosen by [[Characters/Gods/Bahamut\|Bahamut]] himself, which legitimised him in front of the people.
+A major symbolic shift, as the Concord of Unity turns into an Empire. Not necessarily tyrannical more a sacred unified authority. As religious authority reinforces political unity. A Emperor was chosen by [[Characters/Gods/Bahamut\|Bahamut]] himself, which legitimised him in front of the people.
 
 As borders stabilise, and laws become very consistent across regions, infrastructure expands. Cultural identities persists and nobility is reforged to oversee regions in service to the Emperor. 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/in-world-written-history/","created":"2026-03-19T15:14:38.761+10:30","updated":"2026-04-08T02:59:01.825+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/in-world-written-history/","created":"2026-03-19T15:14:38.761+10:30","updated":"2026-04-09T10:35:58.977+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -100,6 +100,19 @@ Human kingdoms rose where elven forest once stood. Human banners flew over the l
 #### The Year 217
 I was on [[The Mundane Plane/Luminaryx\|Luminaryx]], I was able to wittiness it all. [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]]. It was truly a spectacle, nothing compared to the wars of a by gone age. But seeing that the last two Dragons exhaust themselves and to meet one of these summed hero's was also a privilege. 
 
+#### The Year 223
+They called it the Coalition Era, in the year 223 former enemies and rivals stood together against Hell and the Fey, reopening trade and rediscovering old roads, all while pretending old grudges had been buried. I was made a mediator as I had no allegiances to any kingdom, I watched kings shake hands with rivals they intended to outlast.
+
+The campaigns were effective to a degree, but the coalition did not end wars, it merely delayed it. But it still remained who paid, who bled, who would claim what remained.
+
+#### Year 238
+They name it the [[The Mundane Plane/History/Age of Accord/The Founding of the Federated Holy Empire\|The Founding of the Federated Holy Empire]], but its roots were laid years prior, in fear and desperation, and in the slow surrendering of sovereignty masked as survival. After t[[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]] broke their illusion of divine protection, and the Ashen Accords bound them in necessity, unity became less a choice and more an inevitability.
+
+By the time Concord of Unity was signed, the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]] already existed, they merely gave it a name years later in the Year 238. 
+
+They claim [[Characters/Gods/Bahamut\|Bahamut]] chose their Emperor, as if divine approval sanctifies political convenience, perhaps he did or perhaps mortals simply learned which lies endure longest.
+
+Borders stabilised, laws aligned and infrastructure started to flourish under this "sacred authority", while old crowns were reforged into obedient nobility. They call strength through unity.
 
 
 ### On the fey and the judgment of other realms
@@ -124,4 +137,4 @@ Preventing their endless war from reigniting apocalypse. From the heavens he rai
 
 “He stayed because he could not leave, A god who abandons his creation admits failure” - Corsair [[Characters/Merirosvo\|Merirosvo]]
 
-We do not know if there are any other Gods who remain and side. But of those God we do know who are alive they wish us dead. They are still emboldened by their flame of ambition. To fulfill a purpose we do not understand.
+We do not know if there are any other Gods who remain and side. But of those God we do know who are alive they wish us dead. They are still emboldened by their flame of ambition. To fulfil a purpose we do not understand.

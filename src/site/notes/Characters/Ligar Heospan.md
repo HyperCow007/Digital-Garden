@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-04-08T03:02:34.212+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-04-09T10:42:03.552+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -11,6 +11,8 @@ In his youth Ligar was not merely a commander, but a mage of considerable power.
 
 Years following the war, he became the leading mind behind many Empire initiative: [[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]] program. 
 
+Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
+Grand Master of [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]]
 Reference Image: 
 
 

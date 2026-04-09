@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-04-08T03:02:50.150+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-04-09T10:43:30.959+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -13,6 +13,13 @@ Rather then live with humanity in this new world, he choose to exile.
 He abandoned the courts and set sail into the open world. What began as a desperate escape became something far greater.
 
 Now he commands the Twilight Spear, the largest and most feared corsair fleet to sail any sea. Under his command its not merely a fleet, but a moving kingdom bound not by crown but by loyalty and the promise of freedom and riches beyond the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]].  
+
+
+Reputation: 
+“They call him a rebel… how convenient. It’s easier than admitting they fear a king with no throne.” - [[Characters/Ainzbeth\|Ainzbeth]]
+
+Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
+Merirosvo is officially wanted by the Empire under charges of inciting rebellion, piracy and terrorism 
 
 Reference Image:
 ![Pasted image 20260404142143.png](/img/user/Images/Pasted%20image%2020260404142143.png)

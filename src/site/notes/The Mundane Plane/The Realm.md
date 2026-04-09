@@ -19,7 +19,7 @@ The Regions:
 [[The Mundane Plane/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]]
 [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]]
 
-![Pasted image 20260409100550.png](/img/user/Pasted%20image%2020260409100550.png)
+![Pasted image 20260409100550.png](/img/user/Images/Pasted%20image%2020260409100550.png)
 
 
 
@@ -33,7 +33,7 @@ Regions:
 [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]]
 [[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights\|Sunstone Heights]]
 
-![Pasted image 20260409100836.png](/img/user/Pasted%20image%2020260409100836.png)
+![Pasted image 20260409100836.png](/img/user/Images/Pasted%20image%2020260409100836.png)
 
 ## [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
 

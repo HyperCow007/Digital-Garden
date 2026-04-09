@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-04-08T03:02:15.071+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-04-09T10:38:57.866+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -14,6 +14,9 @@ She has lived through every age not by immortality, but by transference into cra
 *Reputation* 
 "Where others learned magic, she defined its rules"
 "x character is the strongest? Aside from Ainzbeth"
+
+Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
+*Ainzbeth is officially wanted by the Empire under charges of heresy, unregistered immortal entity an a existential threat* 
 
 Reference Picture:
 ![Pasted image 20260404142122.png](/img/user/Images/Pasted%20image%2020260404142122.png)
