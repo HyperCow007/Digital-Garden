@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-08T14:47:27.505+09:30","dg-note-properties":{"banner":"![Pasted image 20260408143827.png](/img/user/Images/Pasted%20image%2020260408143827.png)","Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-09T09:24:41.471+09:30","dg-note-properties":{"Updated":false}}
 ---
 
 
@@ -18,5 +18,5 @@ A world where legends are not born, they are made.
 
 Read about brief about the world history here, [[The Mundane Plane/In World Written History\|In World Written History]] 
 
-Here you can find basic information about [[The Mundane Plane/The Realm\|The Realm]]
+Here you can find basic information about [[The Mundane Plane/The Realm\|The Realm]] (Not all the regions have been fleshed out yet)
 
