@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-11T08:51:12.705+09:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-13T07:18:04.166+09:30","dg-note-properties":{"Updated":false}}
 ---
 
-![Pasted image 20260411085110.png](/img/user/Pasted%20image%2020260411085110.png)
+![Pasted image 20260411085110.png](/img/user/Images/Pasted%20image%2020260411085110.png)
 
-Vishram is a fractured world, somehow still holding itself together after the aftermath of the Age of Shattering. The Gods once worshipped, fear and depended upon are dead, silent, missing or have turned against their creations. Their absence has left scars not only on faith but reality itself. 
+Vishram is a fractured world, somehow still holding itself together after the aftermath of the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]]. The Gods once worshipped, feared and depended upon are dead, silent, missing or have turned against their creations. Their absence has left scars not only on faith but reality itself. 
 
 The boundaries between planes have weaken. Fragments of other realms bleed into the the mundane plane (the material plane). 
 
