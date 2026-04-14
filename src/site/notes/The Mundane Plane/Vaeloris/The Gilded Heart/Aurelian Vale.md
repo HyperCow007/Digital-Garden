@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-gilded-heart/aurelian-vale/","created":"2026-04-01T15:57:43.148+10:30","updated":"2026-04-13T07:36:15.174+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-gilded-heart/aurelian-vale/","created":"2026-04-01T15:57:43.148+10:30","updated":"2026-04-14T03:52:33.538+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 The Aurelian Vale once connected with the mainland, however events during the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]]splintered it to what it is now. The Aurelian Vale once held the old Elven capital now a ruin partially reclaimed by nature and other entities. 
@@ -12,5 +12,5 @@ The Aurelian Vale once connected with the mainland, however events during the [[
 Due to the hazards no permanent settlements from the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]] exist, beside from a single [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]] outpost. 
 
 ### Forts
-The Aurelian Stronghold 
+- The Aurelian Stronghold 
 
