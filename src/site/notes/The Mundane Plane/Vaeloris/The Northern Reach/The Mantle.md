@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-mantle/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-08T03:15:33.031+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-mantle/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-14T04:13:46.625+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -21,17 +21,17 @@ Head: Lord Galen
 ## Settlements 
 
 ### Cities
-**Hewgill Citadel**
-**Drakhold** - [[Characters/Gods/Tiamat\|Tiamat]] Controlled
+- **Hewgill Citadel**
+- **Drakhold** - [[Characters/Gods/Tiamat\|Tiamat]] Controlled
 
 ### Forts
-**Karthmere**
-**Calford** 
-**Vyrthaxis** - [[Characters/Gods/Tiamat\|Tiamat]] Controlled 
+- **Karthmere**
+- **Calford** 
+- **Vyrthaxis** - [[Characters/Gods/Tiamat\|Tiamat]] Controlled 
 
 
 ### Towns/Villages 
-**Hillfar** 
-**Swindon** - Razed 
-**Sutton** - Razed
-**Lindow** - Razed
+- **Hillfar** 
+- **Swindon** - Razed 
+- **Sutton** - Razed
+- **Lindow** - Razed

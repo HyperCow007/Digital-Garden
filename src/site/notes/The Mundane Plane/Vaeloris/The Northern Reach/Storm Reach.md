@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/storm-reach/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-08T03:15:21.315+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/storm-reach/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-14T04:13:08.581+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -23,20 +23,20 @@ Head: Lord Lowry
 ## Settlements 
 
 ### Cities
-**Red Haven** 
-**Doloris**
+- **Red Haven** 
+
 
 
 ### Forts
-**The Weeping Bastion**
-**Grimtol**
+- **The Weeping Bastion**
+- **Grimtol**
 
 
 ### Towns/Villages 
-**Martyr's Rest**
-**Dolor's Embrace 
-Threnody
-Limemell 
+- **Martyr's Rest**
+- **Dolor's Embrace 
+- Threnody
+- Limemell 
 
 
 

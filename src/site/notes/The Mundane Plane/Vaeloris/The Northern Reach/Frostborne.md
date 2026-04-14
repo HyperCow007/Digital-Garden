@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/frostborne/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-08T03:15:07.263+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/frostborne/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-14T04:12:29.746+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -24,14 +24,14 @@ Head: Lord Acherus
 ## Settlements 
 
 ### Cities
-**Helmfirth**
+- **Helmfirth**
 
 ### Forts
-**Wolfwater**
-**Whitebridge**
-**Ghost Watch** 
+- **Wolfwater**
+- **Whitebridge**
+- **Ghost Watch** 
 
 
 ### Towns/Villages 
-**Northbury**
-**Ironhaven**
+- **Northbury**
+- **Ironhaven**
