@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-04-09T10:42:03.552+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-04-15T14:35:13.652+09:30","dg-note-properties":{"Updated":null}}
 ---
 
+Origin:
+Race: Human
+Known Affiliation: 
 
 The Grand Master of [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]], Father of Legends, The Architect 
 
