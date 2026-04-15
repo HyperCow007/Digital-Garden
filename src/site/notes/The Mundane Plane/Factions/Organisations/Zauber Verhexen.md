@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/zauber-verhexen/","created":"2026-04-04T14:01:55.119+10:30","updated":"2026-04-15T14:33:37.009+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/zauber-verhexen/","created":"2026-04-04T14:01:55.119+10:30","updated":"2026-04-15T23:24:34.185+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -14,7 +14,7 @@ According to what is known, the group can only have six members
 Current Members:
 [[Characters/Ainzbeth\|Ainzbeth]], The First and Final Mage
 The Sage, a wandering druid 
-Octavia
+[[Characters/Octavia\|Octavia]], The Clown
 [[Characters/Jadu\|Jadu]], Oracle of the Lunar Veil
 Galdur, a mage from [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
 Maho, the most well know magical tinker (artificer)

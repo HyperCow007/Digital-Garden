@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-04-15T21:54:31.880+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-04-15T23:19:20.624+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Origin: The Twilight Hold 
 Race: Elf 
-Known Affiliation: Twilight Spear 
+Known Affiliation: [[The Mundane Plane/Factions/Notable Underworld/Twilight Spear\|Twilight Spear]]
 
 *Merri-os-vo*
 The Lost King, The Heir to the Elven Throne, The Corsair, Lord of the Seas 
@@ -15,7 +15,7 @@ Rather then live with humanity in this new world, he choose to exile.
 
 He abandoned the courts and set sail into the open world. What began as a desperate escape became something far greater.
 
-Now he commands the Twilight Spear, the largest and most feared corsair fleet to sail any sea. Under his command its not merely a fleet, but a moving kingdom bound not by crown but by loyalty and the promise of freedom and riches beyond the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]].  
+Now he commands the [[The Mundane Plane/Factions/Notable Underworld/Twilight Spear\|Twilight Spear]], the largest and most feared corsair fleet to sail any sea. Under his command its not merely a fleet, but a moving kingdom bound not by crown but by loyalty and the promise of freedom and riches beyond the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]].  
 
 
 Reputation: 
