@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-04-15T14:34:48.702+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-04-15T22:14:43.533+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Origin: Unknown
