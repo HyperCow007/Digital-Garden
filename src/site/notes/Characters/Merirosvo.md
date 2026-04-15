@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-04-15T14:35:16.973+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-04-15T21:54:31.880+09:30","dg-note-properties":{"Updated":null}}
 ---
 
-Origin:
-Race: Human
-Known Affiliation: 
+Origin: The Twilight Hold 
+Race: Elf 
+Known Affiliation: Twilight Spear 
 
 *Merri-os-vo*
 The Lost King, The Heir to the Elven Throne, The Corsair, Lord of the Seas 

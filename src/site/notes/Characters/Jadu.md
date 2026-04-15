@@ -20,4 +20,4 @@ Jadu is not officially declared an enemy of the Federated Holy Empire yet. Howev
 
 
 Reference Picture: 
-![Pasted image 20260415143809.png](/img/user/Pasted%20image%2020260415143809.png)
+![Pasted image 20260415143809.png](/img/user/Images/Pasted%20image%2020260415143809.png)
