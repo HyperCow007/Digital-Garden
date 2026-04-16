@@ -6,7 +6,7 @@
 
 # The Chronicles of a Fragmented World 
 
-Penned by [[Characters/Ainzbeth\|Ainzbeth]],  
+Penned by [[Characters/Zauber Verhexen/Ainzbeth\|Ainzbeth]],  
 In the 217th Year of the The Age of Accord
 
 
@@ -32,7 +32,7 @@ In those days, the elder races flourished, Elven cities sang with living magic. 
 It must be recorded plainly: humanity did not yet exist, nor was it required. The planes were ordered, and the Gods had not yet bled.
 
 
-“The technology and magic of this era might be lost to us forever, but my belief is that one day we may understand it, if we are allowed this privilege” - [[Characters/Ainzbeth\|Ainzbeth]] 
+“The technology and magic of this era might be lost to us forever, but my belief is that one day we may understand it, if we are allowed this privilege” - [[Characters/Zauber Verhexen/Ainzbeth\|Ainzbeth]] 
 
   
 

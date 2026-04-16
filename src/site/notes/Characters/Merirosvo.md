@@ -19,7 +19,7 @@ Now he commands the [[The Mundane Plane/Factions/Notable Underworld/Twilight Spe
 
 
 Reputation: 
-“They call him a rebel… how convenient. It’s easier than admitting they fear a king with no throne.” - [[Characters/Ainzbeth\|Ainzbeth]]
+“They call him a rebel… how convenient. It’s easier than admitting they fear a king with no throne.” - [[Characters/Zauber Verhexen/Ainzbeth\|Ainzbeth]]
 
 Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
 Merirosvo is officially wanted by the Empire under charges of inciting rebellion, piracy and terrorism 

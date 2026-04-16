@@ -12,10 +12,10 @@ A private group of powerful magic attune induvial, not much is know about the gr
 According to what is known, the group can only have six members 
 
 Current Members:
-[[Characters/Ainzbeth\|Ainzbeth]], The First and Final Mage
+[[Characters/Zauber Verhexen/Ainzbeth\|Ainzbeth]], The First and Final Mage
 The Sage, a wandering druid 
-[[Characters/Octavia\|Octavia]], The Clown
-[[Characters/Jadu\|Jadu]], Oracle of the Lunar Veil
+[[Characters/Zauber Verhexen/Octavia\|Octavia]], The Clown
+[[Characters/Zauber Verhexen/Jadu\|Jadu]], Oracle of the Lunar Veil
 Galdur, a mage from [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
 Maho, the most well know magical tinker (artificer)
 

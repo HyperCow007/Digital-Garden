@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/veylcrest-academy/","created":"2026-04-01T15:32:13.679+10:30","updated":"2026-04-09T13:22:58.879+09:30","dg-note-properties":{"Updated":null}}
 ---
 
-Current Arch Mage: [[Characters/Gregor Franz\|Gregor Franz]]
+Current Arch Mage: [[Characters/Federated Holy Empire/Gregor Franz\|Gregor Franz]]
 
 The academy stands within [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], in the heart of  [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]], a place where arcane currents run unusually strong and the veil between theory and practice grows thin.
 

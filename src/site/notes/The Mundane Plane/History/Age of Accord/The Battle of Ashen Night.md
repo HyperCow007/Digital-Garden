@@ -31,7 +31,7 @@ The sky itself burned, dragons dominated the skies as violent aerial duels. Fire
 
 ### The Gambit
 
-Knowing the battle could not be won through shear of force, Bahamut's commits the Summoned hero's to the final task. These ritual was a forgotten knowledge rediscovered by [[Characters/Ligar Heospan\|Ligar Heospan]]. The ritual itself is extraordinarily taxing as it requires power beyond mortal limits.
+Knowing the battle could not be won through shear of force, Bahamut's commits the Summoned hero's to the final task. These ritual was a forgotten knowledge rediscovered by [[Characters/Federated Holy Empire/Ligar Heospan\|Ligar Heospan]]. The ritual itself is extraordinarily taxing as it requires power beyond mortal limits.
 "Strike at the source. Kill the Queen"
 - William
 - Gordan
