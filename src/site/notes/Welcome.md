@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-19T20:15:24.126+09:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-19T20:16:15.452+09:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260411085110.png](/img/user/Images/Pasted%20image%2020260411085110.png)
+
 # The World 
 
 Vishram is a fractured world, somehow still holding itself together after the aftermath of the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]]. The Gods once worshipped, feared and depended upon are dead, silent, missing or have turned against their creations. Their absence has left scars not only on faith but reality itself. 
@@ -15,7 +16,6 @@ Civilizations rise from the ashes, empires attempt to impose order, and individu
 
 This is a world of instability and opportunity.
 A world where legends are not born, they are made. 
-
 
 
 Read about brief about the world history here, [[The Mundane Plane/In World Written History\|In World Written History]] 
