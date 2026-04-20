@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-19T20:16:15.452+09:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-20T11:46:15.041+09:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260411085110.png](/img/user/Images/Pasted%20image%2020260411085110.png)
@@ -29,4 +29,5 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 | Episode | Session   |
 | ------- | --------- |
 | [[Unit 086/Sessions/0\|0]]   | Session 0 |
+| [[Unit 086/Sessions/1\|1]]   | TBD       |
 
