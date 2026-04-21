@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-04-08T03:28:44.104+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-04-21T21:59:41.299+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-The adventures Guild for many years have been responsible  for exploration and monster hunting throughout the world. However after the invention of  [[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]]. Since the empire can send them those units out on these dangerous mission. Due to this adventures have a even greater distain for the [[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]]. 
+The Adventures Guild for many years have been responsible for exploration and monster hunting throughout the world. However after the invention of  [[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]]. Since the empire can send them those units out on these dangerous mission. Due to this adventures have a even greater distain for the [[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]]. 
 
 Adventures nowadays still do what they used to, but to a lesser degree, and more help local towns and station themselves in settlements to deal with minor threats. 
 

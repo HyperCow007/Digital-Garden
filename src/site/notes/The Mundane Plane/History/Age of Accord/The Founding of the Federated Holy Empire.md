@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-09T10:24:41.277+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-21T21:52:55.277+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -19,7 +19,7 @@ Overseen by the religious orders, the Ashen Accords were created and signed. The
 
 ## The Coalition Era
 *The Year 223*
-Former rivals begin formal cooperation, as they share in military campaigns against those who seek the end of mortal civilisation. The primary aggressors being The Forces of Hell, and they Fey. Additional old trade routes opens under joint protection and new ones are craved onto the maps.
+Former rivals begin formal cooperation, as they share in military campaigns against those who seek the end of mortal civilisation. The primary aggressors being The Forces of Hell, and the Fey. Additional old trade routes opens under joint protection and new ones are craved onto the maps.
 
 But tensions do arise, as to who leads, who pays and old grudges between kingdoms resurface constantly. 
 
@@ -35,7 +35,7 @@ The Coalition Council proves, but inefficient. Multiple   kingdoms push for stan
 
 During this time Tiamat regains some of her strength and armies, as she continues her conquest of the Northern Reach, However slower and with more resistance then previously. 
 
-[[The Forces of Hell\|The Forces of Hell]] and the Fey also continue their attacks on the mortal world. These increase in attacks lead to the fall of a few kingdoms, further proving decentralisation is to ineffective.
+[[The Forces of Hell\|The Forces of Hell]] and the Fey also continue their attacks on the mortal world. The increase in attacks lead to the fall of a few kingdoms, further proving decentralisation is to ineffective.
 
 
 #### The Concord of Unity
@@ -53,5 +53,5 @@ A major symbolic shift, as the Concord of Unity turns into an Empire. Not necess
 As borders stabilise, and laws become very consistent across regions, infrastructure expands. Cultural identities persists and nobility is reforged to oversee regions in service to the Emperor. 
 
 The Year 240
-At this time, the death sentenced is removed and replaced with the 
+At this time, the death sentenced is removed and replaced with the Legends Penalty ([[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]])
 
