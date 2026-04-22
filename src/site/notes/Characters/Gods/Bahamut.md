@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/gods/bahamut/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-04-08T03:03:49.400+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/gods/bahamut/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-04-22T12:18:41.884+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 

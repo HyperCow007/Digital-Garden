@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-20T11:46:15.041+09:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-21T23:38:53.924+09:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260411085110.png](/img/user/Images/Pasted%20image%2020260411085110.png)
 
 # The World 
 
-Vishram is a fractured world, somehow still holding itself together after the aftermath of the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]]. The Gods once worshipped, feared and depended upon are dead, silent, missing or have turned against their creations. Their absence has left scars not only on faith but reality itself. 
+Perditus is a fractured world, somehow still holding itself together after the aftermath of the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]]. The Gods once worshipped, feared and depended upon are dead, silent, missing or have turned against their creations. Their absence has left scars not only on faith but reality itself. 
 
 The boundaries between planes have weaken. Fragments of other realms bleed into the the mundane plane (the material plane). 
 
@@ -24,10 +24,10 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 
 
 
-# Unit 086 Log
+# The Vestiges of Divinity
 
-| Episode | Session   |
-| ------- | --------- |
-| [[Unit 086/Sessions/0\|0]]   | Session 0 |
-| [[Unit 086/Sessions/1\|1]]   | TBD       |
+| Episode | Session   |     |
+| ------- | --------- | --- |
+| [[Unit 086/Sessions/1\|1]]   | TBD       |     |
+| [[Unit 086/Sessions/0\|0]]   | Session 0 |     |
 

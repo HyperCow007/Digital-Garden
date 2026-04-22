@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/luminaryx/","created":"2026-03-19T16:40:59.613+10:30","updated":"2026-04-08T02:58:42.094+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/luminaryx/","created":"2026-03-19T16:40:59.613+10:30","updated":"2026-04-22T12:19:38.123+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 

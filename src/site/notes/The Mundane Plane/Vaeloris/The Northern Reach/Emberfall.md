@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/emberfall/","created":"2026-03-19T16:33:15.431+10:30","updated":"2026-04-08T03:14:55.206+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/emberfall/","created":"2026-03-19T16:33:15.431+10:30","updated":"2026-04-22T12:19:55.053+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 

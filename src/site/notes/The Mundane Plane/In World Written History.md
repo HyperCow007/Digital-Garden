@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/in-world-written-history/","created":"2026-03-19T15:14:38.761+10:30","updated":"2026-04-09T10:35:58.977+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/in-world-written-history/","created":"2026-03-19T15:14:38.761+10:30","updated":"2026-04-22T12:19:21.286+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -106,7 +106,7 @@ They called it the Coalition Era, in the year 223 former enemies and rivals stoo
 The campaigns were effective to a degree, but the coalition did not end wars, it merely delayed it. But it still remained who paid, who bled, who would claim what remained.
 
 #### Year 238
-They name it the [[The Mundane Plane/History/Age of Accord/The Founding of the Federated Holy Empire\|The Founding of the Federated Holy Empire]], but its roots were laid years prior, in fear and desperation, and in the slow surrendering of sovereignty masked as survival. After t[[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]] broke their illusion of divine protection, and the Ashen Accords bound them in necessity, unity became less a choice and more an inevitability.
+They name it the [[The Mundane Plane/History/Age of Accord/The Founding of the Federated Holy Empire\|The Founding of the Federated Holy Empire]], but its roots were laid years prior, in fear and desperation, and in the slow surrendering of sovereignty masked as survival. After t[[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Mundane Plane/History/Age of Accord/The Battle of Ashen Night]] broke their illusion of divine protection, and the Ashen Accords bound them in necessity, unity became less a choice and more an inevitability.
 
 By the time Concord of Unity was signed, the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]] already existed, they merely gave it a name years later in the Year 238. 
 

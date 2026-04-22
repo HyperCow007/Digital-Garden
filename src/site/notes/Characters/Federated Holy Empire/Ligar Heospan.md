@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-04-21T21:59:02.187+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-04-22T12:17:51.739+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Origin:

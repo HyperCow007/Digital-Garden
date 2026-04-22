@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-21T21:52:55.277+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-22T12:17:25.553+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 ## The Origins
 *The Year 217*
 
-After [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]], [[Characters/Gods/Bahamut\|Bahamut]] went into hibernation and took a step back from while remaining in the floating city of [[The Mundane Plane/Luminaryx\|Luminaryx]] . 
+After [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]] [[Characters/Gods/Bahamut\|Bahamut]] went into hibernation and took a step back from while remaining in the floating city of [[The Mundane Plane/Luminaryx\|Luminaryx]] . 
 
 This was a catastrophic battle, and showed the world that even the power of a God wasn't enough to protect them, the world realises that if they fight alone, we could die alone, this fear becomes a kindling to unite them.
 
