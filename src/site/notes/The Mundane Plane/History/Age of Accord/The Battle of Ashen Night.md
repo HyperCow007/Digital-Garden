@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-04-08T03:24:56.886+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-04-22T12:27:13.855+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -56,3 +56,4 @@ further, on Tiamat:
 "Seeing my companions on the ground, either reduced to ash or torn from reality through Power Words, I barely managed to get out of there, clinging to whatever life I had left in me"
 
 
+This Battle would later be referred to as the 1st Chromatic Crusade     

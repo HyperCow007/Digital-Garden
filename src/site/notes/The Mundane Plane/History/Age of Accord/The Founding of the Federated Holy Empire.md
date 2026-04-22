@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-22T12:17:25.553+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-founding-of-the-federated-holy-empire/","created":"2026-03-24T09:56:32.389+10:30","updated":"2026-04-22T12:57:34.077+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -31,9 +31,9 @@ This council, handled disagreements between kingdoms and would look at the broad
 ### Centralisation Push
 *The Year 231* 
 
-The Coalition Council proves, but inefficient. Multiple   kingdoms push for standardised laws, a unified military command and a central treasury. However opposition does arise as some kingdoms fear losing their sovereignty and some threaten to withdraw. 
+The Coalition Council proves, but inefficient. Multiple  kingdoms push for standardised laws, a unified military command and a central treasury. However opposition does arise as some kingdoms fear losing their sovereignty and some threaten to withdraw. 
 
-During this time Tiamat regains some of her strength and armies, as she continues her conquest of the Northern Reach, However slower and with more resistance then previously. 
+During this time Tiamat regains some of her strength and armies, as she continues her conquest of the Northern Reach, However slower and with more resistance then previously. This was known as [[The Mundane Plane/History/Age of Accord/The 2nd Chromatic Crusade\|The 2nd Chromatic Crusade]]. 
 
 [[The Forces of Hell\|The Forces of Hell]] and the Fey also continue their attacks on the mortal world. The increase in attacks lead to the fall of a few kingdoms, further proving decentralisation is to ineffective.
 
