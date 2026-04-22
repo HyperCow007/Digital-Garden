@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/magic-laws/","created":"2026-04-22T14:05:14.816+09:30","updated":"2026-04-22T14:44:15.241+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/magic-laws/","created":"2026-04-22T14:05:14.816+09:30","updated":"2026-04-22T14:45:44.658+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -23,5 +23,5 @@ The practice of magic within the realm is bound by strict legal doctrine. The fo
 Violation of these statutes is punishable by severe penalties, including imprisonment, magical restriction, or execution depending on severity and intent.
 
 Suggested, not enforced:
-- Long range, magical message spell, these can be tapped into from outside sources
+- Long-range magical communication (such as sending spells or arcane message rituals) is not prohibited but is strongly discouraged, as such transmissions may be intercepted, monitored, or altered by external arcane forces. 
 
