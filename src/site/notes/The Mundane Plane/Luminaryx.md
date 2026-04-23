@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/luminaryx/","created":"2026-03-19T16:40:59.613+10:30","updated":"2026-04-22T12:19:38.123+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/luminaryx/","created":"2026-03-19T16:40:59.613+10:30","updated":"2026-04-23T04:24:39.697+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -16,4 +16,4 @@ The city is a relic of a bygone age, the last stand of the old world and its rem
 
 Now it acts as the capital of the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], currently anchored in [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]], in the region of [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]]. 
 
-The Dragon Lords, who took catastrophic causalities during  [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]], act as the guardian custodians of Bahamut's hibernation. As the Dragon Lords protect him, no one is allowed to see him, however a few exceptions have been made during age. One example being when Bahamut choose the Emperor, and by proxy  [[The Mundane Plane/Factions/Federated Holy Empire/The Royal Family\|The Royal Family]] for the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]].  
+The Dragon Lords, who took catastrophic causalities during  [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]], act as the guardian custodians of Bahamut's hibernation. As the Dragon Lords protect him (now known as the Dragon Guard), no one is allowed to see him, however a few exceptions have been made during age. One example being when Bahamut choose the Emperor. 
