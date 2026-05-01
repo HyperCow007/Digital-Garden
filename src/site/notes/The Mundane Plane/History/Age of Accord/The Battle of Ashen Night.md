@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-04-22T12:27:13.855+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-05-01T10:02:58.884+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -44,7 +44,9 @@ The hero's, enter the volcanic fortress, they fight through the troops inside. A
 
 ### The Aftermath
 
-This attack erased part of the fortress, but did not kill Tiamat. But she has treated into her domain to lick her wounds. Bahamut's forces claim victory at devasting cost. A pyrrhic victory. However Bahamut exert allot of his dwindling divine energy, and has also entered a hibernation phase within his floating citadel [[The Mundane Plane/Luminaryx\|Luminaryx]]. 
+This attack erased part of the fortress, but did not kill Tiamat. But she has treated into her domain to lick her wounds. Bahamut's forces claim victory at devasting cost, a pyrrhic victory. Bahamut exert allot of his dwindling divine energy, and has also entered a hibernation phase within his floating citadel [[The Mundane Plane/Luminaryx\|Luminaryx]]. 
+
+Furthermore, this battle killed of the vast amount of dragons on both sides. With a estimated 40 left in existence (chromatic, metallic and others combined). 2 Chromatic dragons still serve Bahamut while the other left and went into hiding. It is unknown how many of Tiamats dragons stayed in her service. 
 
 Words from the surving hero, William.
 "We were outnumbered & ill prepared. Even getting to Tiamat herself was a great struggle." 
