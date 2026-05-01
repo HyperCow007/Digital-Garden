@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-05-01T10:02:58.884+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-05-01T10:08:15.887+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -13,7 +13,7 @@ This deceive battle would only last two hours, a pyrrhic  victory for the mortal
 ## Forces of War 
 
 [[Characters/Gods/Bahamut\|Bahamut]]'s Host
-- The Summon Heroes ()
+- The Summon Heroes 
 - Dragons riders of metallic Dragons
 - United Northern Army
 - A Southern War host with navel support
