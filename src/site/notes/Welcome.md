@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-04-21T23:38:53.924+09:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-05-03T22:17:15.240+09:30","dg-note-properties":{"Updated":false}}
 ---
 
-![Pasted image 20260411085110.png](/img/user/Images/Pasted%20image%2020260411085110.png)
+![Pasted image 20260503221714.png](/img/user/Pasted%20image%2020260503221714.png)
 
 # The World 
 

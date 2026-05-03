@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-faith/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-05-03T22:13:16.113+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-faith/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-05-03T22:15:21.473+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -27,6 +27,7 @@ Rulers, mages and warriors are all expected to wield strength in service of orde
 - Guardianship 
 
 ## Festivals/Rituals 
+
 ### The Day of Platinum Light
 A sacred new year festival dedicated to [[Characters/Gods/Bahamut\|Bahamut]], marking the moment when the world is symbolically weighed and renewed. 
 
