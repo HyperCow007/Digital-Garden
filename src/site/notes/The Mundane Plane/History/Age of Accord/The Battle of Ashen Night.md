@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-05-01T10:08:15.887+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-05-05T04:54:10.107+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -41,6 +41,9 @@ Knowing the battle could not be won through shear of force, Bahamut's commits th
 The hero's are escorted via dragon to Tiamat's lair, the escort was used to keep the hero's safe no matter the cost. To get past Tiamat's divine ward protecting her lair, Bahamut himself fired upon destroying the ward and getting through the initial defensive positions.
 
 The hero's, enter the volcanic fortress, they fight through the troops inside. At the heart of the lair the legends confront Tiamat. The Battle is overwhelming as the summoned legends began to fall one by one, until one remained William. He was able use whatever power he had left to mortally wound Tiamat's form but ultimately failed to slay her resulting in the contingency plan to take effect. The contingency was a concentrated mana bomb deployed by William, a weapon created during the Age of Shattering. 
+
+### The Corpse 
+The God corpse of *Tyr* was found by the hero's. It was discovered that Tiamat was draining it of ichor (God Blood). The Hero's were able remove the God corpse from its state, but due to the blast from contingency bomb made further recovery unrealistic. However it was discovered by Williams account, that the ichor was being collected and stored by Tiamat forces for a purpose which is still unknown. 
 
 ### The Aftermath
 
