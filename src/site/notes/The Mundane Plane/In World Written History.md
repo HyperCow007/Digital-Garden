@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/in-world-written-history/","created":"2026-03-19T15:14:38.761+10:30","updated":"2026-04-22T12:19:21.286+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/in-world-written-history/","created":"2026-03-19T15:14:38.761+10:30","updated":"2026-05-05T05:57:51.187+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -19,9 +19,6 @@ Before time learned to wound itself, there was the Prime Creator. The elves know
 
 From its hand came the shaping of everything we know. The elves remember this age not as myth but as our inheritance. The Gods walked the world and the world was whole.
 
-
-
-
 ## On the Common Era 
 
 The age before everything changed. 
@@ -34,16 +31,11 @@ It must be recorded plainly: humanity did not yet exist, nor was it required. Th
 
 “The technology and magic of this era might be lost to us forever, but my belief is that one day we may understand it, if we are allowed this privilege” - [[Characters/Zauber Verhexen/Ainzbeth\|Ainzbeth]] 
 
-  
-
 ### The Day of Red Sun
 
 At the end of the common era, the sky wailed as a red sun rose and bled into the sky, and with it came the full might of Hell in number beyond reckoning. Their assault was not merely on the world, but upon everything, even divinity itself.
 
 On that day, The Prime Creator was slain, heaven itself fractured and war ceased to be distant or righteous it became survival itself. Reality cracked, and all that followed has been damage control. 
-
-  
-  
 
 ## [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]]
 
@@ -59,8 +51,6 @@ Their failing was not courage but time, the elder races do not breed quickly, th
 
 
 “Survival does not reward purity” - Commander Aelthyn Moonveil 
-
-  
 
 ### On the Making of Humanity
 
@@ -84,8 +74,6 @@ The Phaneton, divine servants, lesser gods and champions fell in droves, Even th
 “Designed things are tools. Tools are discarded when they outlive their purpose.” - Archdruid Fenralaith 
 
 “If we had been designed, perhaps we would still have cities” - Blade-Singer Vaelor
-
-  
 
 ## The Age of Accord 
 
@@ -133,7 +121,7 @@ Their resentment and fear grows.
 
 [[Characters/Gods/Bahamut\|Bahamut]], he bound himself to humanity, acting as arbiter between rival kingdoms. 
 
-Preventing their endless war from reigniting apocalypse. From the heavens he raised a great floating city, a watchful eye over the broken world, the humans call him a Protector, a living God. Others might say a Jailer. Bahamut stands ready to strike down any force mortal or otherwise that would plunge the world back into divine war.
+Preventing wars from reigniting apocalypse. From the heavens he raised a great floating city, a watchful eye over the broken world, the humans call him a Protector, a living God. Others might say a Jailer. Bahamut stands ready to strike down any force mortal or otherwise that would plunge the world back into divine war.
 
 “He stayed because he could not leave, A god who abandons his creation admits failure” - Corsair [[Characters/Merirosvo\|Merirosvo]]
 
