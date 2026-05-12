@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-05-04T03:50:22.955+09:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-05-12T14:48:33.113+09:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260503221714.png](/img/user/Images/Pasted%20image%2020260503221714.png)
@@ -24,10 +24,15 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 
 
 
-# The Vestiges of Divinity
+# Campaign Overview
 
-| Session | Episode     |
-| ------- | ----------- |
-| [[Unit 086/Sessions/1\|1]]   | TBD         |
-| [[Unit 086/Sessions/0\|0]]   | Episode   0 |
+| Unit 086 (PF) | Year      |
+| ------------- | --------- |
+| [[Unit 086/Sessions/2\|2]]         | 288th AOA |
+| [[Unit 086/Sessions/1\|1]]         | 288th AOA |
+| [[Unit 086/Sessions/0\|0]]         | N/A       |
+# Oneshot Overview 
 
+| Oneshot                       | Year    | System  |
+| ----------------------------- | ------- | ------- |
+| [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]] | 217 AOA | D&D 5.5 |
