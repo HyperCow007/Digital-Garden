@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/magic-laws/","created":"2026-04-22T14:05:14.816+09:30","updated":"2026-04-22T14:45:44.658+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/magic-laws/","created":"2026-04-22T14:05:14.816+09:30","updated":"2026-06-02T09:59:43.924+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -19,6 +19,8 @@ The practice of magic within the realm is bound by strict legal doctrine. The fo
   The use of divination magic to observe, locate, or gather information on individuals, locations, or events without imperial sanction is strictly forbidden.
 - **Magical Experimentation Oversight**: 
   Arcane research must be approved and monitored. Unregulated experimentation especially on living beings is criminal.
+- **Teleportation**  
+  The use of magic to instantly transport creatures or objects across distances is prohibited 
 
 Violation of these statutes is punishable by severe penalties, including imprisonment, magical restriction, or execution depending on severity and intent.
 
