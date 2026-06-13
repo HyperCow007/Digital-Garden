@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/zauber-verhexen/jadu/","created":"2026-04-15T14:12:50.767+09:30","updated":"2026-04-15T14:38:41.593+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/zauber-verhexen/jadu/","created":"2026-04-15T14:12:50.767+09:30","updated":"2026-06-13T17:46:05.988+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -13,7 +13,9 @@ Jadu is a recluse from the Southern Dunes, a land where the stars are said to wh
 
 She draws upon the moon and stars to guide her magic, reading fate in their movements. Among scholars and war caster alike, its quietly believed that Jadu does not merely predict time, she can disturb it. 
 
-Jadu speaks rarely and listens always. Her words often feel deleted or premature, as if she is answering questions that haven't been asked. She carries an unsettling calm, as though she has already seen the outcome of every conversation. There is a quiet detachment to her, not from apathy but from perspective
+Jadu speaks rarely and listens always. Her words often feel deleted or premature, as if she is answering questions that haven't been asked. She carries an unsettling calm, as though she has already seen the outcome of every conversation. There is a quiet detachment to her, not from apathy but from perspective.
+
+Throughout history, there have been many Jadu's, its believed its a title that is past down.
 
 Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
 Jadu is not officially declared an enemy of the Federated Holy Empire yet. However, within the Empire’s, she is classified as a **“Temporal Aberration Risk”**.
