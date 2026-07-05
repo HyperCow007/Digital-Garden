@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/lucky/","created":"2026-06-28T09:58:34.819+09:30","updated":"2026-06-28T10:12:40.557+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/lucky/","created":"2026-06-28T09:58:34.819+09:30","updated":"2026-07-05T21:02:00.760+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -12,8 +12,8 @@ Reports to Commander [[Unit 086/Character Dossier/Party/Dog\|Dog]]
 
 
 # Stats
-Lv1
-HP: 13
+Lv2
+HP: 14
 Size: Small
 Movement Speed: 25ft
 Languages: Common, Sakvroth, Draconic 
