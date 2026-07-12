@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-faith/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-05-03T22:15:21.473+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-faith/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-07-12T18:53:16.890+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-The Faith is what the people call the primary religious order. The Faith worships and teaches the values of Gods with the good alignment whether they are living or dead. They have the trust of the common folk and are key in keeping order within settlements. 
+The Faith is what the people call the primary religious order. The Faith worships and teaches the values of [[Characters/Gods/Bahamut\|Bahamut]]. They have the trust of the common folk and are key in keeping order within settlements. 
 
 The Faith is typically in charge of religious practices, law, and handle typically bureaucracy along side with city council members. 
 
 The Faith and [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]] are known to disagree with each other, over a many difference of opinions and the way they handle affairs.
 
+The Faith, are the arbiters of justice and control the courts as a result they are usually the one's who sentence people to prison or the worst case being sentencing them to join the [[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]].
 
-The Faith, are the arbiters of justice and control the courts as a result they are usually the one who sentence people to prison or the worst case being sentencing them to join the [[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]].
 
 # The Faith of Bahamut
 
@@ -45,11 +45,19 @@ Tied directly to [[The Mundane Plane/History/Age of Accord/The Battle of Ashen N
 - Honouring those who fought Tiamat's forces
 
 
-## Key Figures 
-**Grand Justiciar Halven Rook**
-Role: Head of Imperial Law and responsible for handing down legend penalty ([[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]])
+## The Three Judge Clergy
+The Faith is governed by three Central Judges, who together from the highest authority within the Church. Each Judge oversees one of the three sacred pillars, embodying a core ideal [[Characters/Gods/Bahamut\|Bahamut]]. The Judge Cleric represents Authority, serving as the supreme spiritual leader and guiding the Faith's doctrine and direction. The Judge Castigator embodies Justice, enforcing divine law and delivering judgement. The Judge Preceptor upholds Truth, preserving sacred knowledge, interpreting scripture, and safeguarding the teachings of [[Characters/Gods/Bahamut\|Bahamut]]. 
 
-**High Pontiff Malrec**
-Role: Leader of [[The Mundane Plane/Factions/Federated Holy Empire/The Faith\|The Faith]]
+At the top is the Judge Cleric. The Judge Cleric is the supreme leader of the Faith. They Interpret doctrine, crowns rulers, appoints bishops and speaks with ultimate religious authority. 
 
+The Judge Castigator, Oversees inquisitions divine justice, execution of sentences and the rooting of Heresy. Commands the Faith's militant and judicial arms.
+
+The Judge Preceptor, responsible for preserving knowledge, educating the clergy and the masses, interpreting scripture and the training of priests. 
+
+### Current Judges 
+**Judge Cleric Elara Caelis**
+
+**Judge Castigator - Thalia Corven**
+
+**Judge Preceptor - Halven Rook**
 

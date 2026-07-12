@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-royal-family/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-04-08T03:29:17.016+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-royal-family/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-07-09T05:55:04.130+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -19,7 +19,7 @@ Status: Alive
 The religious backbone of the empire, She transformed the empires faith into a unifying force.
 
 ## The Heirs of Kayzar
-**Crown Prince Cassian** "The Golden Blade"
+**Prince Cassian** "The Golden Blade"
 Age: 38
 Heir Apparent
 The "perfect prince"
