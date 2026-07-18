@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/toby/","created":"2026-07-12T09:09:05.822+09:30","updated":"2026-07-12T18:51:01.772+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/toby/","created":"2026-07-12T09:09:05.822+09:30","updated":"2026-07-18T12:09:49.833+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -10,7 +10,7 @@ Currently heading to [[The Mundane Plane/Vaeloris/The Northern Reach/Frostborne\
 # Family 
 Wife - Everlis, Age 53 Human Female - Runs the tavern
 
-Brother (Good Friend Brother, not biological) - Samsem age 53 Tiefling Male, Helps at the Bar
+Brother Samson(Good Friend Brother, not biological) - Samsem age 53 Tiefling Male, Helps at the Bar
 
 1st Born - Toben, Age 32 Human Male - Wants to continue family trade of running the tavern
 
