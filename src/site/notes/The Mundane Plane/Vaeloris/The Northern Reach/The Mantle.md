@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-mantle/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-22T13:04:24.043+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-mantle/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-07-25T13:58:35.755+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -33,6 +33,6 @@ Head: Lord Galen
 
 ### Towns/Villages 
 - **Hillfar** 
-- **Swindon** 
+- **Swindon** - Demon Town
 - **Sutton** - Razed
 - **Lindow** - Razed
