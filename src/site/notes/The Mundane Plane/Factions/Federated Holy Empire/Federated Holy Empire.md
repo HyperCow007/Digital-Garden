@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-04-09T13:13:02.018+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-08-03T15:53:56.171+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -26,5 +26,5 @@ There are other import aspects, but these three are the core foundation.
 
 
 ### The Southern Dunes 
- [[The Mundane Plane/Vaeloris/The Southern Dunes/Bonecrest Ridge\|Bonecrest Ridge]], [[The Mundane Plane/Vaeloris/The Southern Dunes/Glasswind Dunes\|Glasswind Dunes]], [[The Mundane Plane/Vaeloris/The Southern Dunes/The Cindering Sands\|The Cindering Sands]] are held by the  [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], The Searing Expanse has been to uninhabitable to consider holding or investing in.
+ [[The Mundane Plane/Vaeloris/The Southern Dunes/Valoc Ridge\|Valoc Ridge]], [[The Mundane Plane/Vaeloris/The Southern Dunes/Glasswind Dunes\|Glasswind Dunes]], [[The Mundane Plane/Vaeloris/The Southern Dunes/Darsha Sands\|Darsha Sands]] are held by the  [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], The Searing Expanse has been to uninhabitable to consider holding or investing in.
 
