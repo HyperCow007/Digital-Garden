@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/the-realm/","created":"2026-03-19T15:18:57.311+10:30","updated":"2026-08-03T15:59:53.768+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/the-realm/","created":"2026-03-19T15:18:57.311+10:30","updated":"2026-08-05T17:02:28.504+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -8,7 +8,7 @@ More commonly know as Bahamut Floating City. Read about [[The Mundane Plane/Lumi
 
 # Vaeloris
 Vaeloris is a continent within the world, hosting a variety of differing landscapes and climates from the cold snowy north, to the tempered heart and the hot desert sands on the south. All under the banner of the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]. 
-![Pasted image 20260803155900.png](/img/user/Images/Pasted%20image%2020260803155900.png)
+![Pasted image 20260805170228.png](/img/user/Pasted%20image%2020260805170228.png)
 ## [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
 Long Winters, Short Summers on the northern end of the world. This region is not completely held by the *Federated Holy Empire*. With *[[Characters/Gods/Tiamat\|Tiamat]]* Holding [[The Mundane Plane/Vaeloris/The Northern Reach/Emberfall\|Emberfall]] and her followers who cause chaos in the [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]]. 
 
