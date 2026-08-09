@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/storm-reach/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-04-14T04:13:08.581+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/storm-reach/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-08-07T15:41:54.997+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -16,20 +16,22 @@ Notes: 
 - Occasionally Ember Fall produces heat currents, that temperatures clash could intensify Storm Reach weather.
 
 ## The Noble House
-The Turbinis House
+The Alaric House
 Home: Red Haven
-Head: Lord Lowry 
+Head: Lord Alaric 
 
 ## Settlements 
 
 ### Cities
 - **Red Haven** 
-
+- Ravencroft
 
 
 ### Forts
+- Blackstone
 - **The Weeping Bastion**
 - **Grimtol**
+- Cliffwatch 
 
 
 ### Towns/Villages 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-northern-reach/","created":"2026-04-01T16:13:18.899+10:30","updated":"2026-04-08T03:15:45.775+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-northern-reach/","created":"2026-04-01T16:13:18.899+10:30","updated":"2026-08-07T12:35:53.299+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -14,3 +14,17 @@ The Regions:
 [[The Mundane Plane/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]]
 [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]]
 
+![Pasted image 20260807123552.png](/img/user/Images/Maps/Pasted%20image%2020260807123552.png)
+
+### Key
+Red Circle - Major city of each region 
+Yellow Circle - Major Settlements 
+
+Pink Line - Capital Road
+Purple Line - Main Road
+Light Purple Line - Minor Road
+
+Yellow Dash - Shipping lanes
+Orange Dash - Shipping lanes
+
+Green Box - 

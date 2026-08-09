@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-mantle/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-07-25T13:58:35.755+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/the-mantle/","created":"2026-03-19T16:38:25.040+10:30","updated":"2026-08-07T11:34:59.010+09:30","dg-note-properties":{"Updated":null}}
 ---
 
-
+l;
 Within [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
 
 Climate; shielded from worst ocean storms, cold winters, mild summers
@@ -34,5 +34,8 @@ Head: Lord Galen
 ### Towns/Villages 
 - **Hillfar** 
 - **Swindon** - Demon Town
+- **Sarr Village**
 - **Sutton** - Razed
 - **Lindow** - Razed
+- **Kord**
+

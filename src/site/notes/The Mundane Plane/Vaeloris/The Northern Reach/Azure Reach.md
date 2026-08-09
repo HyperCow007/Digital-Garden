@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/azure-reach/","created":"2026-03-19T16:35:28.378+10:30","updated":"2026-04-14T04:12:05.522+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/vaeloris/the-northern-reach/azure-reach/","created":"2026-03-19T16:35:28.378+10:30","updated":"2026-08-07T15:46:31.592+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -28,7 +28,7 @@ Head: Lord Enoch
 
 ### Forts
 - **Selsmire**
-- **West Lowes Watch Tower**
+- **Lowes Watch Tower**
 
 
 ### Towns/Villages 

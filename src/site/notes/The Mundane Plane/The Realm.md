@@ -8,7 +8,7 @@ More commonly know as Bahamut Floating City. Read about [[The Mundane Plane/Lumi
 
 # Vaeloris
 Vaeloris is a continent within the world, hosting a variety of differing landscapes and climates from the cold snowy north, to the tempered heart and the hot desert sands on the south. All under the banner of the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]. 
-![Pasted image 20260805170228.png](/img/user/Pasted%20image%2020260805170228.png)
+![Pasted image 20260805170228.png](/img/user/Images/Maps/Pasted%20image%2020260805170228.png)
 ## [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
 Long Winters, Short Summers on the northern end of the world. This region is not completely held by the *Federated Holy Empire*. With *[[Characters/Gods/Tiamat\|Tiamat]]* Holding [[The Mundane Plane/Vaeloris/The Northern Reach/Emberfall\|Emberfall]] and her followers who cause chaos in the [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]]. 
 
