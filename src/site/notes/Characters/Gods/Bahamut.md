@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/gods/bahamut/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-04-22T12:18:41.884+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/gods/bahamut/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-08-22T19:35:02.629+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-The Platinum King, The Final Arbiter, Warden of the Sky, Champion of the Mortal Race, The Last God
+The Platinum King, The Final Arbiter, Father of Dragons, The Last God
 
 Bahamut is the final remanet of the divine age long since shattered, a god who did not fall when the heavens burned. Revered as the Platinum King (before the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]), he once stood as the ultimate authority between mortals, a being whose judgement could end wars before they began, and whose presence alone enforced peace across the realm. 
 
