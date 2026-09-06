@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-04-21T21:59:41.299+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-09-05T18:14:53.581+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -20,3 +20,4 @@ Based: [[The Mundane Plane/Vaeloris/The Northern Reach/Azure Reach\|Azure Reach]
 Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire\|Dawnspire]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
 **Furious Abyss** 
 Based: [[The Mundane Plane/Vaeloris/The Southern Dunes/Glasswind Dunes\|Glasswind Dunes]], [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
+ 

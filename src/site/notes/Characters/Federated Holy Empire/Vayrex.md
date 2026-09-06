@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/vayrex/","created":"2026-06-28T10:12:45.726+09:30","updated":"2026-06-29T00:38:50.791+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/vayrex/","created":"2026-06-28T10:12:45.726+09:30","updated":"2026-09-05T15:22:12.096+09:30","dg-note-properties":{"Updated":null}}
 ---
+
+Warden of the North, 
 
 Race: Dragon
 Known Affiliation: [[Characters/Gods/Bahamut\|Bahamut]], by proxy the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]
