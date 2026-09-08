@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/gregor-franz/","created":"2026-04-09T12:10:17.121+09:30","updated":"2026-04-15T22:15:20.219+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/gregor-franz/","created":"2026-04-09T12:10:17.121+09:30","updated":"2026-09-08T16:03:06.751+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Origin:
@@ -12,3 +12,4 @@ Feared and respected, Gregor's voice carries weight of law, magic, and imperial 
 
 Beyond the court, he hold dominion over [[The Mundane Plane/Factions/Organisations/Veylcrest Academy\|Veylcrest Academy]], the empire foremost institution of magic. Under his leadership, the academy has become both a breeding ground for loyal imperial mages and quiet control which ensures that arcane power within the Empire remains firmly under his watch. 
 
+![Pasted image 20260908160301.png\|387](/img/user/Images/Pasted%20image%2020260908160301.png)

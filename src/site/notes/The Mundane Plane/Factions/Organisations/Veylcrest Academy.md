@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/veylcrest-academy/","created":"2026-04-01T15:32:13.679+10:30","updated":"2026-04-09T13:22:58.879+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/veylcrest-academy/","created":"2026-04-01T15:32:13.679+10:30","updated":"2026-09-08T16:25:15.881+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Current Arch Mage: [[Characters/Federated Holy Empire/Gregor Franz\|Gregor Franz]]
@@ -12,5 +12,4 @@ As a result, the academy is much a proving ground as its a place of learning. pr
 
 
 ### Internal Factions 
-
 

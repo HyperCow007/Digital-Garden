@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-09-05T18:14:53.581+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-09-08T16:23:57.432+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -12,12 +12,30 @@ Due to this change in their job climate, the rise of mercenary companies  has be
 Mercenary companies, generally originated from the adventure groups who decided to expand their sphere of influence.
 
 ## Notable Merc Companies
-**The Silver Dawn**
-Based: [[The Mundane Plane/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]], [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]] 
-**Red Tearers**
+
+### Silver Dawn 
+Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]] 
+Leader: Chor 
+![Pasted image 20260908160750.png\|396](/img/user/Images/Pasted%20image%2020260908160750.png)
+
+Know for: Criminal activity primarily trafficking goods, Criminal kingpin of the[[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
+
+### Red Tearers 
 Based: [[The Mundane Plane/Vaeloris/The Northern Reach/Azure Reach\|Azure Reach]], [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]] 
-**Oath of Stone**
-Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire\|Dawnspire]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
-**Furious Abyss** 
+Leader: Dot 
+![Pasted image 20260908161245.png\|253](/img/user/Images/Pasted%20image%2020260908161245.png)
+
+Know for: Assassin cult who worship a dead God
+### Oath of Stone
+Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]] 
+Leader: Mordred Boil
+![Pasted image 20260908161702.png\|268](/img/user/Images/Pasted%20image%2020260908161702.png)
+
+Know for: Traditional Guild values, slaying monsters, assisting law enforcement, no criminal activity 
+
+### Furious Abyss
 Based: [[The Mundane Plane/Vaeloris/The Southern Dunes/Glasswind Dunes\|Glasswind Dunes]], [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
- 
+Leaders: Bran and Vala (Siblings)
+ ![Pasted image 20260908161853.png\|278](/img/user/Images/Pasted%20image%2020260908161853.png)
+
+Know for :Traditional Guild values, slaying monsters, exploration 

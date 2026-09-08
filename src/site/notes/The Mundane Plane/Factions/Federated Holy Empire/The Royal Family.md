@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-royal-family/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-07-09T05:55:04.130+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-royal-family/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-09-08T17:03:20.720+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -8,33 +8,20 @@ The Royal family is a line chosen by Bahamut himself, in the eyes of [[The Munda
 # The Kayzar Dynasty
 Rulers of the Federated Holy Empire
 
-**Emperor Valerius Kayzar** "The Unifer"
-Age: 68
-Status: Alive (Aging, declining health)
-The founder of the empire, A brilliant general turned ruler who unified fractured nations. He is both revered and feared 
+[[Characters/Federated Holy Empire/Royal Family/Emperor Valerius Kayzar\|Emperor Valerius Kayzar]] "The Unifer"
 
-**Empress Serana Kayzar** "The Saint"
-Age: 61
-Status: Alive 
-The religious backbone of the empire, She transformed the empires faith into a unifying force.
+
+[[Characters/Federated Holy Empire/Royal Family/Empress Serana Kayzar\|Empress Serana Kayzar]] "The Saint"
 
 ## The Heirs of Kayzar
-**Prince Cassian** "The Golden Blade"
-Age: 38
-Heir Apparent
-The "perfect prince"
+[[Characters/Federated Holy Empire/Royal Family/Prince Cassian\|Prince Cassian]] "The Golden Blade"
 
-**Princess Elyra** "Sliver"
-Age: 34
-A diplomat and political genius 
+[[Characters/Federated Holy Empire/Royal Family/Princess Elyra\|Princess Elyra]] "The Catalyst"
 
-**Prince Kael** "Shattered Blade"
-Age: 29
-The Black sheep of the family, a war hero turned controversial figure after a brutal campaign 
+[[Characters/Federated Holy Empire/Royal Family/Prince Kael\|Prince Kael]] "Shattered Blade"
 
-**Princess Lyssara** "The Veiled Daughter"
-Age: 24
-Rarely seen in public, and rarely spoken of
+[[Characters/Federated Holy Empire/Royal Family/Princess Lyssara\|Princess Lyssara]] "The Veiled Daughter"
+
 
 
 
