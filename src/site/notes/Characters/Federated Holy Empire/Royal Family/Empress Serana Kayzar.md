@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/empress-serana-kayzar/","created":"2026-09-08T16:37:40.705+09:30","updated":"2026-09-08T17:01:15.638+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/empress-serana-kayzar/","created":"2026-09-08T16:37:40.705+09:30","updated":"2026-09-10T15:19:21.816+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-"The Saint"
+Titles: The Saint
 Race: Human
 Age: 61
 

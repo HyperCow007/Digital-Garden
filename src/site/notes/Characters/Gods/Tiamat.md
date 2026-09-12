@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/gods/tiamat/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-04-22T12:18:51.617+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/gods/tiamat/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-09-10T15:20:42.450+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-The Queen of Tyranny, Mother of Dragons, The World-Breaker.
+Titles: The Queen of Tyranny, Mother of Dragons, The World-Breaker.
 
 Few beings in recorded history command the same level of fear as Tiamat. Tiamat is the master of all chromatic dragons, her will etched into their very soul. 
 

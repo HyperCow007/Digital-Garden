@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/princess-elyra/","created":"2026-09-08T16:45:43.994+09:30","updated":"2026-09-08T17:03:13.917+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/princess-elyra/","created":"2026-09-08T16:45:43.994+09:30","updated":"2026-09-10T15:20:25.485+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-"The Catalyst"
+Titles: The Catalyst, Silver Spoon
 
 Race: Human
 Age: 34

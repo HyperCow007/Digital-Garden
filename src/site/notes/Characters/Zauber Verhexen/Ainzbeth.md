@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/zauber-verhexen/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-04-15T22:14:43.533+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/zauber-verhexen/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-09-10T15:20:57.198+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Origin: Unknown
@@ -8,7 +8,7 @@ Known Affiliation: [[The Mundane Plane/Factions/Organisations/Zauber Verhexen\|Z
 
 (*Ainz-beth*)
 
-The First and Final Mage, the Undying Archon, Mother of Modern Day Magic, The One who Refused Death, those are some of her many titles.
+Titles: The First and Final Mage, the Undying Archon, Mother of Modern Day Magic, The One who Refused Death, those are some of her many titles.
 
 Ainzbeth is believed to be the first human to have completely mastery of magic, not just a caster but someone who has the ability to bring back lost and forgotten power from this world. 
 

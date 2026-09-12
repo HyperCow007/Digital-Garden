@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/zauber-verhexen/jadu/","created":"2026-04-15T14:12:50.767+09:30","updated":"2026-06-13T17:46:05.988+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/zauber-verhexen/jadu/","created":"2026-04-15T14:12:50.767+09:30","updated":"2026-09-10T15:21:01.942+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-Oracle of the Lunar Veil, The Star-Touched Seer, The Sands Witch 
+Titles: Oracle of the Lunar Veil, The Star-Touched Seer, The Sands Witch 
 
 Origin: [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
 Race: Human

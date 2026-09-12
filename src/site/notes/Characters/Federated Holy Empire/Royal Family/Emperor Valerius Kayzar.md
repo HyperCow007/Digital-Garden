@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/emperor-valerius-kayzar/","created":"2026-09-08T16:30:49.627+09:30","updated":"2026-09-08T17:01:06.454+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/emperor-valerius-kayzar/","created":"2026-09-08T16:30:49.627+09:30","updated":"2026-09-10T15:19:16.002+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-The Unifer, King of Kings 
+Titles: The Unifer, King of Kings 
 
 Race: Human 
 Age: 68

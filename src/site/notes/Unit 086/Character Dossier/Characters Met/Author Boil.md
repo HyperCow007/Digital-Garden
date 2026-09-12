@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/author-boil/","created":"2026-06-24T10:14:26.332+09:30","updated":"2026-09-05T16:23:23.156+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/author-boil/","created":"2026-06-24T10:14:26.332+09:30","updated":"2026-09-10T14:47:42.750+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 ![Pasted image 20260905162321.png](/img/user/Images/Pasted%20image%2020260905162321.png)
+
+Titles: The Warrior King
 
 Age: Very old, was around during the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]] 
 Race: Undead

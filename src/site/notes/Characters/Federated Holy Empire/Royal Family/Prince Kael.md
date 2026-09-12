@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/prince-kael/","created":"2026-09-08T16:45:47.206+09:30","updated":"2026-09-08T17:05:03.132+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/royal-family/prince-kael/","created":"2026-09-08T16:45:47.206+09:30","updated":"2026-09-10T15:19:36.226+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-"Shattered Blade"
+Titles: Shattered Blade
 
 Race: Human
 Age: 29

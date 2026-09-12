@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/gregor-franz/","created":"2026-04-09T12:10:17.121+09:30","updated":"2026-09-08T16:03:06.751+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/gregor-franz/","created":"2026-04-09T12:10:17.121+09:30","updated":"2026-09-10T15:18:35.781+09:30","dg-note-properties":{"Updated":null}}
 ---
+
+Titles: Hand of the Emperor, The Arch Mage, 
 
 Origin:
 Race: Human

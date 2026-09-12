@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/myths/nishek-anak/","created":"2026-04-04T16:36:58.617+10:30","updated":"2026-04-08T03:03:20.178+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/myths/nishek-anak/","created":"2026-04-04T16:36:58.617+10:30","updated":"2026-09-10T15:20:49.308+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 *Nish-ek  An-ak*
 
-The World Engine, The Last Calamity, Absolute Destroyer
+Titles: The World Engine, The Last Calamity, Absolute Destroyer
 
 Forged during the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]], it was the pinnacle of human ambition. Entire armies, and nations vanished in its wake, their history razed. Where it walked, the ground itself would buckle, magic bent unnaturally around its presence. 
 
