@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-05-05T04:54:10.107+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-battle-of-ashen-night/","created":"2026-03-20T12:28:41.563+10:30","updated":"2026-09-18T19:20:01.691+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -9,7 +9,7 @@ The Final Siege of Emberfall
 In the years of the The Age of Accord, when a fragile peace began to fracture Bahamut launched a decisive assault against Tiamat, who had entrenched herself within her volcanic dominion of Emberfall. 
 
 This deceive battle would only last two hours, a pyrrhic  victory for the mortal realm. 
-
+![Pasted image 20260918192000.png](/img/user/Pasted%20image%2020260918192000.png)
 ## Forces of War 
 
 [[Characters/Gods/Bahamut\|Bahamut]]'s Host
@@ -23,6 +23,7 @@ This deceive battle would only last two hours, a pyrrhic  victory for the mortal
 - Goblin and Hobgoblin war legions 
 - Cultists 
 - Dragon Broods
+
 
 ## The Battle itself 
 
