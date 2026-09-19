@@ -9,7 +9,7 @@ The Final Siege of Emberfall
 In the years of the The Age of Accord, when a fragile peace began to fracture Bahamut launched a decisive assault against Tiamat, who had entrenched herself within her volcanic dominion of Emberfall. 
 
 This deceive battle would only last two hours, a pyrrhic  victory for the mortal realm. 
-![Pasted image 20260918192000.png](/img/user/Pasted%20image%2020260918192000.png)
+![Pasted image 20260918192000.png](/img/user/Images/Pasted%20image%2020260918192000.png)
 ## Forces of War 
 
 [[Characters/Gods/Bahamut\|Bahamut]]'s Host
