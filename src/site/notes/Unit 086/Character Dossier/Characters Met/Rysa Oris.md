@@ -5,9 +5,9 @@
 
 ![Pasted image 20260905162705.png](/img/user/Images/Pasted%20image%2020260905162705.png)
 
-22 Human Female, Originally from the Capital ([[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]])
+22 Human Female, Originally from the Capital ([[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]])
 Her family name is noted, as important in the capital itself.
 
 Party saved her from a sacrifice ritual in the [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]]  
 
-Last seen being escorted by [[Unit 086/Character Dossier/Characters Met/Captain Bernard\|Captain Bernard]] personal guard to [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]]
+Last seen being escorted by [[Unit 086/Character Dossier/Characters Met/Captain Bernard\|Captain Bernard]] personal guard to [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]]

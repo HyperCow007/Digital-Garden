@@ -4,7 +4,7 @@
 
 Current Arch Mage: [[Characters/Federated Holy Empire/Gregor Franz\|Gregor Franz]]
 
-The academy stands within [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], in the heart of  [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]], a place where arcane currents run unusually strong and the veil between theory and practice grows thin.
+The academy stands within [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]], in the heart of  [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]], a place where arcane currents run unusually strong and the veil between theory and practice grows thin.
 
 [[The Mundane Plane/Factions/Federated Holy Empire/The Faith\|The Faith]] and [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]] jointly fund the academy. The academy exists a as a rare convergence of divine doctrine and martial necessity. Each factions seeks to shape its students.[[The Mundane Plane/Factions/Federated Holy Empire/The Faith\|The Faith]] to guide magic toward order, purpose and reverence. [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]] to weaponize it for defence and expansion of the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]].
 

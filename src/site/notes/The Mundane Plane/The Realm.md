@@ -23,10 +23,10 @@ The Regions:
 For the central, most prosperous region. Warmer climate, lush forest and expansive plains. Very suitable for life. 
 
 Regions:
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Aurelian Vale\|Aurelian Vale]]
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire\|Dawnspire]]
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]]
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights\|Sunstone Heights]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Aurelian Vale/Aurelian Vale\|Aurelian Vale]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire/Dawnspire\|Dawnspire]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights/Sunstone Heights\|Sunstone Heights]]
 
 
 ## [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]

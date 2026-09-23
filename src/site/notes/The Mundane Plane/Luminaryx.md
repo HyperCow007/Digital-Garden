@@ -14,6 +14,6 @@ Within this city, dragons and mortals dwell together in an uneasy coexistence. P
 
 The city is a relic of a bygone age, the last stand of the old world and its remaining technology.  The city itself is a fortress with multiple layers of defence, wild hosting a range of offensive capabilities. 
 
-Now it acts as the capital of the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], currently anchored in [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]], in the region of [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]]. 
+Now it acts as the capital of the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], currently anchored in [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]], in the region of [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]]. 
 
 The Dragon Lords, who took catastrophic causalities during  [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]], act as the guardian custodians of Bahamut's hibernation. As the Dragon Lords protect him (now known as the Dragon Guard), no one is allowed to see him, however a few exceptions have been made during age. One example being when Bahamut choose the Emperor. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-09-10T12:31:12.541+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/organisations/adventures-guild/","created":"2026-04-01T15:24:03.698+10:30","updated":"2026-09-20T11:40:25.223+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -14,7 +14,7 @@ Mercenary companies, generally originated from the adventure groups who decided 
 ## Notable Merc Companies
 
 ### Silver Dawn 
-Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]] 
+Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]] 
 Leader: [[Unit 086/Character Dossier/Characters Met/Chor\|Chor]] 
 ![Pasted image 20260908160750.png\|396](/img/user/Images/Pasted%20image%2020260908160750.png)
 
@@ -28,16 +28,17 @@ Know for:
   - Financial Crimes
 - A known Criminal Kingpin 
 
-### Red Tearers 
-Based: [[The Mundane Plane/Vaeloris/The Northern Reach/Azure Reach\|Azure Reach]], [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]] 
+### Red Cult  
+Based: [[The Mundane Plane/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]], [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]] 
 Leader: Dot 
 ![Pasted image 20260908161245.png\|253](/img/user/Images/Pasted%20image%2020260908161245.png)
 
 Know for: 
-- Assassin cult who worship a dead God
+- Assassin cult who worship 
 - Killers for hire
+
 ### Oath of Stone
-Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]] 
+Based: [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]] 
 Leader: Mordred Boil
 ![Pasted image 20260908161702.png\|268](/img/user/Images/Pasted%20image%2020260908161702.png)
 

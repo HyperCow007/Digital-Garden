@@ -6,8 +6,8 @@ The centre area of the Vaeloris continent, the seat of power for the [[The Munda
 
 
 Regions:
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Aurelian Vale\|Aurelian Vale]]
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire\|Dawnspire]]
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin\|Glintwater Basin]]
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights\|Sunstone Heights]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Aurelian Vale/Aurelian Vale\|Aurelian Vale]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire/Dawnspire\|Dawnspire]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]]
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights/Sunstone Heights\|Sunstone Heights]]
 
