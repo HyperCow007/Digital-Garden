@@ -16,12 +16,12 @@ There are other import aspects, but these three are the core foundation.
 ### Northern Reach
 [[The Mundane Plane/Vaeloris/The Northern Reach/Azure Reach\|Azure Reach]] and [[The Mundane Plane/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]] 
 [[The Mundane Plane/Vaeloris/The Northern Reach/Frostborne\|Frostborne]] is mostly held, beside from the frozen wastes in the most northern part of the region.
-[[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]] is highly contested, against [[Characters/Gods/Tiamat\|Tiamat]]'s forces currently. As its the only land crossing for the Northern Reach its highly valuable. However lower regions of The Mantle is under Tiamat's control. 
+[[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle/The Mantle\|The Mantle]] is highly contested, against [[Characters/Gods/Tiamat\|Tiamat]]'s forces currently. As its the only land crossing for the Northern Reach its highly valuable. However lower regions of The Mantle is under Tiamat's control. 
 
 ### Gilded Heart
 [[The Mundane Plane/Vaeloris/The Gilded Heart/Aurelian Vale/Aurelian Vale\|Aurelian Vale]], [[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Vaeloris/The Gilded Heart/Sunstone Heights/Sunstone Heights\|Sunstone Heights]], are held by the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], as it is the seat of the Empire.
 
-[[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire/Dawnspire\|Dawnspire]] - The northern most part of the region, bordering the mountain range of  [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]], currently contested on the most northern sides.
+[[The Mundane Plane/Vaeloris/The Gilded Heart/Dawnspire/Dawnspire\|Dawnspire]] - The northern most part of the region, bordering the mountain range of  [[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle/The Mantle\|The Mantle]], currently contested on the most northern sides.
 
 
 

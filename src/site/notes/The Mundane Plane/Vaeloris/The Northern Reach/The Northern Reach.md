@@ -12,7 +12,7 @@ The Regions:
 [[The Mundane Plane/Vaeloris/The Northern Reach/Emberfall\|Emberfall]]
 [[The Mundane Plane/Vaeloris/The Northern Reach/Frostborne\|Frostborne]]
 [[The Mundane Plane/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]]
-[[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle\|The Mantle]]
+[[The Mundane Plane/Vaeloris/The Northern Reach/The Mantle/The Mantle\|The Mantle]]
 
 ![Pasted image 20260807123552.png](/img/user/Images/Maps/Pasted%20image%2020260807123552.png)
 
