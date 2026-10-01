@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/dorn/","created":"2026-07-07T09:44:03.431+09:30","updated":"2026-09-10T15:17:56.533+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/dorn/","created":"2026-07-07T09:44:03.431+09:30","updated":"2026-09-27T16:47:48.221+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 Titles: The Unyielding Bastion, The Golden Executioner  
+![Pasted image 20260908160021.png](/img/user/Images/Pasted%20image%2020260908160021.png)
 
 One of the two reaming dragons who lived and stayed with [[Characters/Gods/Bahamut\|Bahamut]] after [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]]. Dorn typically resides within [[The Mundane Plane/Luminaryx\|Luminaryx]] the floating city, he can be spot perching and looking down onto The Holy City of Antax.
 
 "I am the bastion, I am the wall, I endure"
-![Pasted image 20260908160021.png](/img/user/Images/Pasted%20image%2020260908160021.png)
+

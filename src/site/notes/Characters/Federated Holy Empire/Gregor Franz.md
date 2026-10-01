@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/gregor-franz/","created":"2026-04-09T12:10:17.121+09:30","updated":"2026-09-10T15:18:35.781+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/gregor-franz/","created":"2026-04-09T12:10:17.121+09:30","updated":"2026-09-27T16:47:57.723+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Titles: Hand of the Emperor, The Arch Mage, 
-
+![Pasted image 20260908160301.png\|359](/img/user/Images/Pasted%20image%2020260908160301.png)
 Origin:
 Race: Human
 Known Affiliation: [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], [[The Mundane Plane/Factions/Organisations/Veylcrest Academy\|Veylcrest Academy]]  
@@ -14,4 +14,3 @@ Feared and respected, Gregor's voice carries weight of law, magic, and imperial 
 
 Beyond the court, he hold dominion over [[The Mundane Plane/Factions/Organisations/Veylcrest Academy\|Veylcrest Academy]], the empire foremost institution of magic. Under his leadership, the academy has become both a breeding ground for loyal imperial mages and quiet control which ensures that arcane power within the Empire remains firmly under his watch. 
 
-![Pasted image 20260908160301.png\|387](/img/user/Images/Pasted%20image%2020260908160301.png)

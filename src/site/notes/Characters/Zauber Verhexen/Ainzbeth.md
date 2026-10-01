@@ -1,14 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/characters/zauber-verhexen/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-09-10T15:20:57.198+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/zauber-verhexen/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-09-27T16:46:05.405+09:30","dg-note-properties":{"Updated":null}}
 ---
 
+
+
+
+
+Titles: The First and Final Mage, the Undying Archon, Mother of Modern Day Magic, The One who Refused Death, those are some of her many titles.
+![Pasted image 20260404142122.png](/img/user/Images/Pasted%20image%2020260404142122.png)
+
+
+(*Ainz-beth*)
 Origin: Unknown
 Race: Human
 Known Affiliation: [[The Mundane Plane/Factions/Organisations/Zauber Verhexen\|Zauber Verhexen]]
-
-(*Ainz-beth*)
-
-Titles: The First and Final Mage, the Undying Archon, Mother of Modern Day Magic, The One who Refused Death, those are some of her many titles.
 
 Ainzbeth is believed to be the first human to have completely mastery of magic, not just a caster but someone who has the ability to bring back lost and forgotten power from this world. 
 
@@ -21,6 +26,5 @@ She has lived through every age not by immortality, but by transference into cra
 Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
 *Ainzbeth is officially wanted by the Empire under charges of heresy, unregistered immortal entity an a existential threat*  
 
-Reference Picture:
-![Pasted image 20260404142122.png](/img/user/Images/Pasted%20image%2020260404142122.png)
+
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/federated-holy-empire/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-09-10T15:18:56.919+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/federated-holy-empire/ligar-heospan/","created":"2026-03-29T18:55:57.291+10:30","updated":"2026-09-27T16:48:12.758+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 Titles: The Artificer, Father of Legends  
-
+![Pasted image 20260908160530.png\|278](/img/user/Images/Pasted%20image%2020260908160530.png)
 Origin:
 Race: Human
 Known Affiliation: 
@@ -20,6 +20,6 @@ Years following the war, he became the leading mind behind many of the Empire's 
 Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
 Grand Master of [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]]
 Reference Image: 
-![Pasted image 20260908160530.png\|363](/img/user/Images/Pasted%20image%2020260908160530.png)
+
 
 

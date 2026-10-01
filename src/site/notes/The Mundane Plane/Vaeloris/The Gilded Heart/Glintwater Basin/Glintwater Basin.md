@@ -9,7 +9,7 @@ Everything flows into Glintwater trade, politics, magic and secrets, its the shi
 - The Underflow, beneath the capital exists a undercity a hybrid of old elven architecture and more modern [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]
 
 
-## [[The Mundane Plane/Factions/Federated Holy Empire/The Royal Family\|The Royal Family]]
+## [[The Mundane Plane/Factions/Federated Holy Empire/Noble Houses/The Royal Family\|The Royal Family]]
 The Kayzar House
 Home: The Holy City of Antax   
 Head: Valerius Kayzar

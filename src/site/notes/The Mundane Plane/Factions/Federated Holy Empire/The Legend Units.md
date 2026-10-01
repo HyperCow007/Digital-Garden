@@ -3,7 +3,7 @@
 ---
 
 
-After the end of the death penalty, a new penalty was  introduced for these criminals. This new mandate was created on the 240th year of the Age of Accord. This magic science was created by [[Characters/Federated Holy Empire/Ligar Heospan\|Ligar Heospan]] ,  and to put it into use it was signed of by the [[The Mundane Plane/Factions/Federated Holy Empire/The Faith\|The Faith]], [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]], and [[The Mundane Plane/Factions/Federated Holy Empire/The Royal Family\|The Royal Family]]. 
+After the end of the death penalty, a new penalty was  introduced for these criminals. This new mandate was created on the 240th year of the Age of Accord. This magic science was created by [[Characters/Federated Holy Empire/Ligar Heospan\|Ligar Heospan]] ,  and to put it into use it was signed of by the [[The Mundane Plane/Factions/Federated Holy Empire/The Faith\|The Faith]], [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]], and [[The Mundane Plane/Factions/Federated Holy Empire/Noble Houses/The Royal Family\|The Royal Family]]. 
 
 The people who are sentenced to be in this unit are disliked by the vast majority of common folk due to being a death row inmate prior. Once you under the procedure you become subhuman from a societal perspective loosing all you had prior to your sentencing. What makes this unit special is that they are able to return from death. Making them perfect for difficult mission where lives are guaranteed to be lost. 
 

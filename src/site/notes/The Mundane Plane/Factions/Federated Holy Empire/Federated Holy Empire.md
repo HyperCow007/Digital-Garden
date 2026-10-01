@@ -6,7 +6,7 @@
 [[The Mundane Plane/History/Age of Accord/The Founding of the Federated Holy Empire\|The Founding of the Federated Holy Empire]], was a long road with many pieces in place to keep it function, to maintain peace and order throughout the realm. The Capital is the Floating City [[The Mundane Plane/Luminaryx\|Luminaryx]], a city which has the capacity to fly around the world but now days is anchored on the continent of Vaeloris. Hovering by the city of **""** located in [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
 
 There are three main pillars of the Federated Holy Empire. 
-- [[The Mundane Plane/Factions/Federated Holy Empire/The Royal Family\|The Royal Family]]
+- [[The Mundane Plane/Factions/Federated Holy Empire/Noble Houses/The Royal Family\|The Royal Family]]
 - [[The Mundane Plane/Factions/Federated Holy Empire/The Faith\|The Faith]]
 - [[The Mundane Plane/Factions/Federated Holy Empire/The Imperial Military\|The Imperial Military]]
 There are other import aspects, but these three are the core foundation.

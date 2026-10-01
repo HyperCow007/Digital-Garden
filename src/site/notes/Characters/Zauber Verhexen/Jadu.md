@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/zauber-verhexen/jadu/","created":"2026-04-15T14:12:50.767+09:30","updated":"2026-09-10T15:21:01.942+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/zauber-verhexen/jadu/","created":"2026-04-15T14:12:50.767+09:30","updated":"2026-09-27T16:47:00.560+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 Titles: Oracle of the Lunar Veil, The Star-Touched Seer, The Sands Witch 
+![Pasted image 20260415143809.png](/img/user/Images/Pasted%20image%2020260415143809.png)
 
 Origin: [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
 Race: Human
@@ -18,8 +19,7 @@ Jadu speaks rarely and listens always. Her words often feel deleted or premature
 Throughout history, there have been many Jadu's, its believed its a title that is past down.
 
 Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
-Jadu is not officially declared an enemy of the Federated Holy Empire yet. However, within the Empire’s, she is classified as a **“Temporal Aberration Risk”**.
+Jadu is not officially declared an enemy of the Federated Holy Empire yet. However, within the Empire’s, she is classified as a “Potential Threat, procced with caution”.
 
 
-Reference Picture: 
-![Pasted image 20260415143809.png](/img/user/Images/Pasted%20image%2020260415143809.png)
+
