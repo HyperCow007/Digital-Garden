@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/rysa-oris/","created":"2026-07-19T17:17:18.538+09:30","updated":"2026-10-01T15:32:07.297+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/rysa-oris/","created":"2026-07-19T17:17:18.538+09:30","updated":"2026-10-01T16:03:25.990+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-![Pasted image 20260905162705.png](/img/user/Images/Pasted%20image%2020260905162705.png)
+![Pasted image 20261001160319.png\|293](/img/user/Images/Pasted%20image%2020261001160319.png)
 
 20 Human Female, Originally from the Capital ([[The Mundane Plane/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]])
 
