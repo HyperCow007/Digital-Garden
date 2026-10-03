@@ -28,7 +28,7 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 
 | Unit 086 (PF) | Year      | Character Level |
 | ------------- | --------- | --------------- |
-| [[Unit 086/Sessions/The Labyruth/17\|17]]        | 288th AOA | 4               |
+| [[Unit 086/Sessions/17\|17]]        | 288th AOA | 4               |
 | [[Unit 086/Sessions/16\|16]]        | 288th AOA | 4               |
 | [[Unit 086/Sessions/15\|15]]        | 288th AOA | 3 -> 4          |
 | [[Unit 086/Sessions/14\|14]]        | 288th AOA | 3               |
