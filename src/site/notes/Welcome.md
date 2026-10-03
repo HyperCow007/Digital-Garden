@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-09-20T10:29:09.424+09:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-10-03T22:43:35.554+09:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260503221714.png](/img/user/Images/Pasted%20image%2020260503221714.png)
@@ -28,6 +28,7 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 
 | Unit 086 (PF) | Year      | Character Level |
 | ------------- | --------- | --------------- |
+| [[Unit 086/Sessions/The Labyruth/17\|17]]        | 288th AOA | 4               |
 | [[Unit 086/Sessions/16\|16]]        | 288th AOA | 4               |
 | [[Unit 086/Sessions/15\|15]]        | 288th AOA | 3 -> 4          |
 | [[Unit 086/Sessions/14\|14]]        | 288th AOA | 3               |
