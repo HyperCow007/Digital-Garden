@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-knight-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-10-02T12:41:29.730+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-knight-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-10-03T16:11:40.918+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## Pitch
 
-You are members of [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]] an ancient order sworn to safeguard [[Other Planes of Existence/The Nine Hells/Helm/Helm's Gate\|Helm's Gate]], the great bridge between the Mundane Plane and Plane of Hell. 
+You are members of [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]] an ancient order sworn to safeguard [[Other Planes of Existence/The Nine Hells/Helm/Helm's Gate\|Helm's Gate]], the great bridge between the Mundane Plane and Plane of [[Other Planes of Existence/The Nine Hells/The 9 Layers of Hell\|The 9 Layers of Hell]]. 
 
 Since the end of the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]], [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]] have stood watch on the far side of the gate, trapped within Hell so that the armies of the damned cannot reach the mortal world again. 
 

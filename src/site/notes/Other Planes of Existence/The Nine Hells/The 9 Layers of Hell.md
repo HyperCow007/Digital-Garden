@@ -1,33 +1,57 @@
 ---
-{"dg-publish":true,"permalink":"/other-planes-of-existence/the-nine-hells/the-9-layers-of-hell/","created":"2026-03-29T20:14:14.407+10:30","updated":"2026-09-27T11:43:12.459+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/other-planes-of-existence/the-nine-hells/the-9-layers-of-hell/","created":"2026-03-29T20:14:14.407+10:30","updated":"2026-10-03T16:09:34.292+09:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-# Avernus
-(1st Layer): A desolate, fiery wasteland serving as a primary battleground for the Blood War.
+# Layer I
+The Ashen March 
+Layer Lord: Barbatos - Duke of the Hunt
 
-Currently the Gate to the 9 "[[Other Planes of Existence/The Nine Hells/Helm/Helm's Gate\|Helm's Gate]]" is held by [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]]
+An immense expanse of scorched planes, dead forests, volcanic mountains and blackened stones. The sky is permanently stained red by distant fires. With demons/devils/fiends plotting to storm [[Other Planes of Existence/The Nine Hells/Helm/Helm's Gate\|Helm's Gate]]. Where other find slip throughs so they can enter the mundane plane for their own nefarious plans. 
 
-# Dis
-  (2nd Layer): A massive, burning city of iron, characterized by its oppressive atmosphere and ruled by Dispater.
+# Layer II
+The Drowned Kingdom 
+Layer Lord: Focalors - Duke of the Deep
 
-# Minauros 
-(3rd Layer): An endless, polluted swamp of acid, poison, and rain, featuring the sinking city of Minauros, ruled by Mammon.
+A completely submerged kingdom beneath an infinite black ocean. The deeper regions of the layer become increasingly hostile, until even supernatural creatures straggle to survive. 
+# Layer III
+The Gilded Dominion
+Layer Lord: Morax - Lord of Gold 
 
-# Phlegethos 
-(4th Layer): A burning, fiery layer where the pain is constant, jointly ruled by Belial and Fierna.
+A realm of wealth, contracts and material possession. Entire cities are constructed from gold. Every interaction is transactional. 
 
-# Stygia 
-(5th Layer): A frozen sea filled with massive icebergs and glaciers, where the ruler, Prince Levistus, is trapped in ice.
+# Layer IV
+The Verdant Court
+Layer Lord: Buer - The Great Physician 
 
-# Malbolge 
-(6th Layer): A massive, treacherous rocky slope and giant pit, formerly a series of rocky shelves, now ruled by the Hag Countess Glasya.
+A vast garden, where alchemical works is continually created. Where healing power becomes torture for Buer's test subjects. 
 
-# Maladomini 
-(7th Layer): A realm of wasted, ruined cities and extreme decay under a black sky, ruled by the archduke Baalzebul.
+# Layer V
+The Crimson Expanse 
+Layer Lord: Haborym - Lord of War 
 
-# Cania 
-A realm of intense cold, massive glaciers, and freezing mountain ranges, ruled by Mephistopheles. 
+The Crimson Expanse is in a endless struggle for power, as aspiring demons, devils and fiends fight for power, and strive to become a Lord of Hell. Fortress cover the landscape. Infernal armies march constanty between them. War machines patrol the wastes.
 
-# Nessus 
-(9th Layer): The deepest, hottest layer and seat of power, consisting of deep, fiery pits and ruled by Asmodeus, the supreme Lord of the Nine.
+# Layer VI
+The Black Archive
+Layer Lord: Vassago - Prince of Secrets 
+
+Rather then a conventional library, this is an enormous archive of forbidden and lost knowledge, it is believed that every and all knowledge is stored here.  
+
+# Layer VII
+The Burning City
+Layer Lord: Baal - The Conqueror 
+
+A gigantic fortress city, Baal commands Hell's organised armies. 
+
+# Layer VIII
+The Hollow Heaven 
+Layer Lord: Belial - The False King
+
+An imitation of Heaven, beautiful cities gardens and endless peace. Expect something is fundamentally wrong. There are no Gods, No angels, no true salvation. Only Belial. Offering the damned the illusion that they have escaped Hell. 
+
+# Layer IX
+The Endless Throne 
+Layer Lord: Asmodeus - King of Hell
+
+The deepest layer. There is almost nothing here. An infinite black void. At its centre stands a single throne. Asmodeus sits upon it. 
