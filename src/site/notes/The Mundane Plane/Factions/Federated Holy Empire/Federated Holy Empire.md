@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-08-03T15:53:56.171+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-10-07T14:07:41.857+10:30","dg-note-properties":{"Updated":null}}
 ---
 
+![Pasted image 20261007140732.png](/img/user/Images/Pasted%20image%2020261007140732.png)
 
 [[The Mundane Plane/History/Age of Accord/The Founding of the Federated Holy Empire\|The Founding of the Federated Holy Empire]], was a long road with many pieces in place to keep it function, to maintain peace and order throughout the realm. The Capital is the Floating City [[The Mundane Plane/Luminaryx\|Luminaryx]], a city which has the capacity to fly around the world but now days is anchored on the continent of Vaeloris. Hovering by the city of **""** located in [[The Mundane Plane/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
 

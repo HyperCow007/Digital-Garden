@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-planes-of-existence/the-fey-wilds/the-first-world/","created":"2026-09-10T15:45:05.146+09:30","updated":"2026-09-12T23:51:36.926+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/other-planes-of-existence/the-fey-wilds/the-first-world/","created":"2026-09-10T15:45:05.146+09:30","updated":"2026-10-04T13:02:04.594+10:30","dg-note-properties":{"Updated":null}}
 ---
 
+![Pasted image 20261004130203.png](/img/user/Images/Pasted%20image%2020261004130203.png)
 # Origin and Nature 
 The Fey Wilds, the Fey call it The First World, its a scrapped and work in progress world, where natural systems dominate the landscape. A place where reality and the physical and magical laws of the Mundane Plane breakdown.
 

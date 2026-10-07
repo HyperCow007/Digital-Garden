@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-knight-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-10-03T16:11:40.918+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-knight-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-10-04T13:41:19.079+10:30","dg-note-properties":{"Updated":null}}
 ---
 
-
+![Pasted image 20261004134117.png](/img/user/Images/Pasted%20image%2020261004134117.png)
 
 # Player Information 
 

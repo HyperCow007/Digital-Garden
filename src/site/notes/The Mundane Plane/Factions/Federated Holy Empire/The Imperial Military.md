@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-imperial-military/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-04-21T21:55:31.961+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/the-imperial-military/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-10-07T14:11:07.989+10:30","dg-note-properties":{"Updated":null}}
 ---
 
+![Pasted image 20261007141102.png](/img/user/Images/Pasted%20image%2020261007141102.png)
 
 The Military is a very diverse collection of regiments. As each region throughout the realm has its own regiment who are trained to fight within that climate or terrain. From this standard gear, battle tactics, and discipline differ from regiment to regiment. 
 
