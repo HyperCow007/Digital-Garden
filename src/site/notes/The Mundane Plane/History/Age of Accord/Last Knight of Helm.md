@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-knight-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-10-04T13:41:19.079+10:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-knight-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-10-08T16:44:07.376+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 ![Pasted image 20261004134117.png](/img/user/Images/Pasted%20image%2020261004134117.png)
@@ -22,7 +22,7 @@ Now they have abandoned their oath and fled deeper into Hell.
 
 They have taken something with them, a artefact of Helm, in the hands of the denizens of Hell it could be extremely problematic. 
 
-A small group is hand picked by the *Lord Commander, Odran Oris*, to chase down this traitor, take back the artefact and take her out. 
+A small group is hand picked by the *Lord Commander, Dante Oris*, to chase down this traitor, take back the artefact and take her out. 
 
 
 ## Character Info

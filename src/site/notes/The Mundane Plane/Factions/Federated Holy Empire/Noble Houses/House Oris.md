@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/noble-houses/house-oris/","created":"2026-10-01T15:02:44.806+09:30","updated":"2026-10-01T16:11:05.935+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/factions/federated-holy-empire/noble-houses/house-oris/","created":"2026-10-01T15:02:44.806+09:30","updated":"2026-10-08T16:43:36.491+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 ![Pasted image 20261001151109.png\|219](/img/user/Images/Pasted%20image%2020261001151109.png)
@@ -29,7 +29,7 @@ Lady [[Unit 086/Character Dossier/Characters Met/Rysa Oris\|Rysa Oris]]
 Age: 20
 The only daughter and youngest child. 
 
-### Sir Odran Oris
+### Sir Dante Oris
 He was the Oris who first became the leader of [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]],  and his service elevated the family to greater nobility. One of the few families who retained noble titles after the federation of the Empire.
 
 The important distiction is that he isn't retired. He's still in Hell. Still commanding. Still holding the Gate. Still technically a member of the Imperial nobility. 
