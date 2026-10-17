@@ -6,5 +6,5 @@
 
 - First Encounter on the First floor of the 20 floor Dungeon 
   - Appeared when cultist inside summoned him, but the party killed the cultist before they could ask him for anything, at time refused to make deal
-- Second encounter in the [[The Mundane Plane/Factions/Organisations/Veylcrest Academy\|Veylcrest Academy]] Labyrinth
+- Second encounter in the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Organisations/Veylcrest Academy\|Veylcrest Academy]] Labyrinth
   - Made a deal with [[Unit 086/Character Dossier/Party/Kalan\|Kalan]] for his eye in exchange for killing a Succubus 

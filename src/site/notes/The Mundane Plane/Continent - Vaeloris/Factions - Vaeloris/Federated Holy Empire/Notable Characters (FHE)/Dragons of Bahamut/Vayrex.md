@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/factions-vaeloris/federated-holy-empire/notable-characters-fhe/dragons-of-bahamut/vayrex/","created":"2026-06-28T10:12:45.726+09:30","updated":"2026-09-27T16:48:39.338+09:30","dg-note-properties":{"Updated":null}}
+---
+
+Titles: Warden of the North
+![Pasted image 20260908160217.png\|309](/img/user/Images/Pasted%20image%2020260908160217.png)
+(Vay-rex)
+
+Race: Dragon
+Known Affiliation: [[Characters/Gods/Bahamut\|Bahamut]], by proxy the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]
+
+One of the two reaming dragons who lived and stayed with [[Characters/Gods/Bahamut\|Bahamut]] after [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]]. Vayrex can typically be seen flying between the Fingers and Glintwater. However he mainly nests within the Fingers. 
+
+People see him as the last wall against [[Characters/Gods/Tiamat\|Tiamat]] is she was to ever to take the north. The Fingers being   the mountain range between  [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]] and [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]. 
+

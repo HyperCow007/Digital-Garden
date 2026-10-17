@@ -7,4 +7,4 @@
   - Artificial God
   - Has Hivemind power, and can have those afflicted people blend into society 
 - Destroyed Fort Karthmere 
-- Somewhere within [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
+- Somewhere within [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]

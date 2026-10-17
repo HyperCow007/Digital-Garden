@@ -4,5 +4,5 @@
 
 ![Pasted image 20260920111721.png\|216](/img/user/Images/Pasted%20image%2020260920111721.png)
 
-- Artificer student studying at the [[The Mundane Plane/Factions/Organisations/Veylcrest Academy\|Veylcrest Academy]]
+- Artificer student studying at the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Organisations/Veylcrest Academy\|Veylcrest Academy]]
 - Dog assisted him in making a robot for Artificer fight night (A college party hosted in the labyrinth of the school at night)

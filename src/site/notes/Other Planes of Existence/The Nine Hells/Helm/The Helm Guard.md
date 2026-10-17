@@ -21,7 +21,7 @@ The Helm Guard are an ancient order of Champions sworn to protect the Mundane Pl
 
 ## Leadership
 
-The Lord Commander is Sir Dante Oris ([[The Mundane Plane/Factions/Federated Holy Empire/Noble Houses/House Oris\|House Oris]])
+The Lord Commander is Sir Dante Oris ([[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/House Oris/House Oris\|House Oris]])
 The First Helmguard 
 Warden of Helm's Gate
 Knight of the Enteral Watch 

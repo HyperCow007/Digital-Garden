@@ -7,7 +7,7 @@ Titles: The Necromancer, Ring Leader
 - First Encountered along the rode to the capital
 - Running a circus of dead people, who were disguised to look real
 - The party fought him, and took him prisoner
-- Taken captive by the [[The Mundane Plane/Factions/Organisations/Veylcrest Academy\|Veylcrest Academy]]
+- Taken captive by the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Organisations/Veylcrest Academy\|Veylcrest Academy]]
 
 
 

@@ -11,7 +11,7 @@ Titles: The Lost King, The Heir to the Elven Throne, The Corsair, Lord of the Se
 
 Origin: The Twilight Hold 
 Race: Elf 
-Known Affiliation: [[The Mundane Plane/Factions/Notable Underworld/Twilight Spear\|Twilight Spear]]
+Known Affiliation: [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Notable Underworld/Twilight Spear\|Twilight Spear]]
 
 Merirosvo is believed to be the final surviving heir of the lost elven bloodline, a living remnant of the shattered age. When humanity rose and the world fractured during the Age of Shattering, the great elven houses fell one by one. 
 
@@ -19,12 +19,12 @@ Rather then live with humanity in this new world, he choose to exile.
 
 He abandoned the courts and set sail into the open world. What began as a desperate escape became something far greater.
 
-Now he commands the [[The Mundane Plane/Factions/Notable Underworld/Twilight Spear\|Twilight Spear]], the largest and most feared corsair fleet to sail any sea. Under his command its not merely a fleet, but a moving kingdom bound not by crown but by loyalty and the promise of freedom and riches beyond the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]].  
+Now he commands the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Notable Underworld/Twilight Spear\|Twilight Spear]], the largest and most feared corsair fleet to sail any sea. Under his command its not merely a fleet, but a moving kingdom bound not by crown but by loyalty and the promise of freedom and riches beyond the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]].  
 
 
 Reputation: 
 “They call him a rebel… how convenient. It’s easier than admitting they fear a king with no throne.” - [[Characters/Zauber Verhexen/Ainzbeth\|Ainzbeth]]
 
-Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
+Current Status in the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
 Merirosvo is officially wanted by the Empire under charges of inciting rebellion, piracy and terrorism 
 

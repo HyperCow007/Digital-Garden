@@ -3,10 +3,10 @@
 ---
 
 ![Pasted image 20260905162853.png\|281](/img/user/Images/Pasted%20image%2020260905162853.png)
-Human 54 Male traveling stew Vendor in the [[The Mundane Plane/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
-Live in and Co-own Tavern in Red Haven at [[The Mundane Plane/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]]
+Human 54 Male traveling stew Vendor in the [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
+Live in and Co-own Tavern in Red Haven at [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/Storm Reach\|Storm Reach]]
 
-Currently heading to [[The Mundane Plane/Vaeloris/The Northern Reach/Frostborne\|Frostborne]] 
+Currently heading to [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/Frostborne\|Frostborne]] 
 # Family 
 Wife - Everlis, Age 53 Human Female - Runs the tavern
 

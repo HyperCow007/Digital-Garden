@@ -6,9 +6,9 @@
 Titles: Oracle of the Lunar Veil, The Star-Touched Seer, The Sands Witch 
 ![Pasted image 20260415143809.png](/img/user/Images/Pasted%20image%2020260415143809.png)
 
-Origin: [[The Mundane Plane/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
+Origin: [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/The Southern Dunes\|The Southern Dunes]]
 Race: Human
-Known Affiliation: [[The Mundane Plane/Factions/Organisations/Zauber Verhexen\|Zauber Verhexen]]
+Known Affiliation: [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Organisations/Zauber Verhexen\|Zauber Verhexen]]
 
 Jadu is a recluse from the Southern Dunes, a land where the stars are said to whisper truths forgotten by the world. Unlike conventional mages, her power does not stem purely from study but from communion with a unknown force. 
 
@@ -18,7 +18,7 @@ Jadu speaks rarely and listens always. Her words often feel deleted or premature
 
 Throughout history, there have been many Jadu's, its believed its a title that is past down.
 
-Current Status in the [[The Mundane Plane/Factions/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
+Current Status in the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]]:
 Jadu is not officially declared an enemy of the Federated Holy Empire yet. However, within the Empire’s, she is classified as a “Potential Threat, procced with caution”.
 
 

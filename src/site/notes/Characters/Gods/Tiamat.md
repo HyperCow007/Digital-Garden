@@ -14,7 +14,7 @@ Few beings in recorded history command the same level of fear as Tiamat. Tiamat 
 
 During [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]], Tiamat descended upon the world in full fury, raised a army the world hasn't seen since the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]]. Even the summoned heroes being drawn from another world were barley enough to force her to retreat. Victory was never truly achieved, only borrowed time.
 
-Now she resides with [[The Mundane Plane/Vaeloris/The Northern Reach/Emberfall\|Emberfall]], a scorched and broken region twisted by her presence. The land itself reflects her lingering power, and creatures warped into draconic abominations.
+Now she resides with [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/Emberfall\|Emberfall]], a scorched and broken region twisted by her presence. The land itself reflects her lingering power, and creatures warped into draconic abominations.
 
 Current intel suggest, that she is still recovering from her wounds, left on her by the hero William.
 

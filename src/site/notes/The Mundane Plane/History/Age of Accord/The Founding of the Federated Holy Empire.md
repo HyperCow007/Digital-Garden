@@ -53,5 +53,5 @@ A major symbolic shift, as the Concord of Unity turns into an Empire. Not necess
 As borders stabilise, and laws become very consistent across regions, infrastructure expands. Cultural identities persists and nobility is reforged to oversee regions in service to the Emperor. 
 
 The Year 240
-At this time, the death sentenced is removed and replaced with the Legends Penalty ([[The Mundane Plane/Factions/Federated Holy Empire/The Legend Units\|The Legend Units]])
+At this time, the death sentenced is removed and replaced with the Legends Penalty ([[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Legend Units\|The Legend Units]])
 
