@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-10-17T18:58:58.993+10:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-10-25T11:58:45.024+10:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260503221714.png](/img/user/Images/Pasted%20image%2020260503221714.png)
@@ -32,6 +32,8 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 
 | Unit 086 (PF) | Year      | Character Level |
 | ------------- | --------- | --------------- |
+| 19            | 288th AOA | 4 -> 5          |
+| [[Unit 086/Sessions/18\|18]]        | 288th AOA | 4               |
 | [[Unit 086/Sessions/17\|17]]        | 288th AOA | 4               |
 | [[Unit 086/Sessions/16\|16]]        | 288th AOA | 4               |
 | [[Unit 086/Sessions/15\|15]]        | 288th AOA | 3 -> 4          |
@@ -57,5 +59,5 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 
 | Oneshot                       | Year    | System  |
 | ----------------------------- | ------- | ------- |
-| [[The Mundane Plane/History/Age of Accord/Last Knight of Helm\|Last Knight of Helm]]       | 280 AOA | D&D 5.5 |
+| [[The Mundane Plane/History/Age of Accord/Last Angel of Helm\|Last Angel of Helm]]       | 280 AOA | D&D 5.5 |
 | [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]] | 217 AOA | D&D 5.5 |

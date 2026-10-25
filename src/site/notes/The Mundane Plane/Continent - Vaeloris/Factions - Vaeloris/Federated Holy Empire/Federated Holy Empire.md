@@ -27,5 +27,5 @@ There are other import aspects, but these three are the core foundation.
 
 
 ### The Southern Dunes 
- [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Valoc Ridge\|Valoc Ridge]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Glasswind Dunes\|Glasswind Dunes]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Darsha Sands\|Darsha Sands]] are held by the  [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], The Searing Expanse has been to uninhabitable to consider holding or investing in.
+ [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Valoc Ridge/Valoc Ridge\|Valoc Ridge]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Glasswind Dunes/Glasswind Dunes\|Glasswind Dunes]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Darsha Sands/Darsha Sands\|Darsha Sands]] are held by the  [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], The Searing Expanse has been to uninhabitable to consider holding or investing in.
 

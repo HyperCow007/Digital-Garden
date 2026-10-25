@@ -34,9 +34,9 @@ Regions:
 Endless deserts
 
 Regions:
-[[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Valoc Ridge\|Valoc Ridge]]
-[[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Darsha Sands\|Darsha Sands]]
-[[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Glasswind Dunes\|Glasswind Dunes]]
+[[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Valoc Ridge/Valoc Ridge\|Valoc Ridge]]
+[[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Darsha Sands/Darsha Sands\|Darsha Sands]]
+[[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Glasswind Dunes/Glasswind Dunes\|Glasswind Dunes]]
 [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/The Searing Expanse\|The Searing Expanse]]
 
 
