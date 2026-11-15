@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/vaeloris/the-gilded-heart/glintwater-basin/cities/the-holy-city-of-antax/","created":"2026-09-23T14:39:53.103+09:30","updated":"2026-09-23T16:23:57.944+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/vaeloris/the-gilded-heart/glintwater-basin/cities/the-holy-city-of-antax/","created":"2026-09-23T14:39:53.103+09:30","updated":"2026-11-11T17:21:21.335+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 Location: [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
+
+Estimated population: 15.3 million 
 
 # The Capital 
 The capital of the Federated Holy Empire

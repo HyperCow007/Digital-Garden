@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-09-27T16:51:17.131+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/merirosvo/","created":"2026-03-20T12:36:04.054+10:30","updated":"2026-11-11T17:15:18.919+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 Titles: The Lost King, The Heir to the Elven Throne, The Corsair, Lord of the Seas 
 
-![Pasted image 20260404142143.png\|294](/img/user/Images/Pasted%20image%2020260404142143.png)
+![Merirosvo Concept.png\|294](/img/user/Images/Merirosvo%20Concept.png)
 
 *Merri-os-vo*
 

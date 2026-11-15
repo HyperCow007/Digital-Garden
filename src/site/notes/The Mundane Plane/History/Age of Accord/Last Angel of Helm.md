@@ -1,39 +1,68 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-angel-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-10-24T09:50:20.703+10:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/last-angel-of-helm/","created":"2026-10-02T12:37:02.356+09:30","updated":"2026-11-13T17:00:03.980+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 ![Pasted image 20261004134117.png](/img/user/Images/Pasted%20image%2020261004134117.png)
 
-# Player Information 
+# The Record 
+The Records of the Helm Guard
+*Personal records of the Lord Commander, Lord Commander Dante Oris*
 
-## Pitch
+Subject: The Defection of the Last Angel of Helm
+Statis: Unresolved 
 
-You are members of [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]] an ancient order sworn to safeguard [[Other Planes of Existence/The Nine Hells/Helm/Helm's Gate\|Helm's Gate]], the great bridge between the Mundane Plane and Plane of [[Other Planes of Existence/The Nine Hells/The 9 Layers of Hell\|The 9 Layers of Hell]]. 
+### Entry 1
+*It is strange, to record the failure of an oath that has endured for centuries*
 
-Since the end of the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]], [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]] have stood watch on the far side of the gate, trapped within Hell so that the armies of the damned cannot reach the mortal world again. 
+Since the conclusion of the [[The Mundane Plane/History/Age of Shattering/Age of Shattering\|Age of Shattering]], [[Other Planes of Existence/The Nine Hells/Helm/The Helm Guard\|The Helm Guard]] have maintained their vigil upon the far side of [[Other Planes of Existence/The Nine Hells/Helm/Helm's Gate\|Helm's Gate]]. Generations have died beneath it's shadow. We have held our ground against the armies of  [[Other Planes of Existence/The Nine Hells/The 9 Layers of Hell\|The 9 Layers of Hell]], ensuring that the horrors of Hell remain where they belong. 
 
-For generations, the order has held. 
+*We were not promised victory. We were promised a duty, and for all these centuries we have fulfilled it.* 
 
-Within the ranks of the Helm-Guard, the last Angel of Helm who had kept to her oath for multiple millennium has now turned traitor and defected, for unknown reasons. 
+Among our ranks stood the last of his Angels, She had served [[Other Planes of Existence/The Nine Hells/Helm/Helm\|Helm]] before any of us, a sworn guardian much like the rest. Until she abandoned us. Her defection was not the result of defeat, she simply turned her back on her oath and fled into Hell, worse still she stole a Holy Artefact with her, to what extend we do not fully know. 
 
-Once an angel of Helm and the greatest champion of the order.
+I have assembled a small expedition and personally selected four brother for the pursuit. 
 
-Now they have abandoned their oath and fled deeper into Hell. 
+### Entry 2
+Several weeks later, a patrol recovered a single survivor retyring towards the Gate. 
 
-They have taken something with them, a artefact of Helm, in the hands of the denizens of Hell it could be extremely problematic. 
+Cinder Phoenix. 
 
-A small group is hand picked by the *Lord Commander, Dante Oris*, to chase down this traitor, take back the artefact and take her out. 
+The expedition tracked the angel through the First layer, but before confronting her, Cinder learned her intentions. She believed heaven and Hell were two sides of the same coin, and that the powers of Hell could be harnessed to retore [[Other Planes of Existence/The Nine Hells/Helm/Helm\|Helm]]. 
+
+The expedition engaged her, and he was ultimately vanquished but Cinder was the sole survivor of this encounter. However Cinder made his return with the recovered artefact, he was ambushed by Lord [[Other Planes of Existence/The Nine Hells/Lords of Hell/Barbatos\|Barbatos]] himself. The lord of the first layer seized the relic, and left Cinder for dead. 
+
+### Entry 3
+There is one detail from Cinder's testimony that I cannot ignore.
+
+Before her defeat, the angel spoke:
+"I heard Him, you know. In the silence after the Gate closed. I heard Him calling, and I have spent centuries trying to answer"
+
+I have read those words repeatedly, she did not believe she was betraying [[Other Planes of Existence/The Nine Hells/Helm/Helm\|Helm]]. She believed she was answering him. Perhaps her greatest failure was not abandoning her oath, but believing she could restore our God by embracing the very forces he sacrificed himself to contain. I wonder what she heard in that silence. Whether it was truly Helm, or something that merely wished her to believe it was. 
+
+### Entry 4
+Three brother have been lost. 
+
+Helman Ghorst. Lurch Addams, Larethian Irongrace. 
+
+Yet Babatos concerns me most. A Lord of Hell does not personally intervene without reason. Was he involved in the angel's plan? Did he know what she intended? Or was he simply waiting for an opportunity to claim the artefact. 
+
+Whatever the truth, he now posses something that once belonged to Helm. 
+
+### Entry 5
+I have spent a long time considering what it means to be Lord Commander. 
+
+Today, three names have been added to the Hall, the last Angel of Helm has fallen, and an artefact of our God is in the hands of [[Other Planes of Existence/The Nine Hells/Lords of Hell/Barbatos\|Barbatos]]. 
+
+I find myself returning to one question. Why?
+
+I have ordered the official records to state that the expedition failed, the relic was lost and the fallen angel was vanquished. 
+
+But I fear this was merely the first warning. The Gate must remain sealed. 
+
+The Vigil continues. 
 
 
 ## Character Info
-
-- *Array for stats*
-  - 17, 16 13, 10, 10, 8 
-- Level 14  
-
-Send me your character sheets 
-
-- No Simulacrum 
 
 | Character           | Species  | Class                               |
 | ------------------- | -------- | ----------------------------------- |
@@ -42,24 +71,6 @@ Send me your character sheets
 | Lurch Addams        | Golaith  | 14 Eldritch Knight Fighter          |
 | Larethian Irongrace | High Elf | Paladin 1 / Draconic Sorcerer 13    |
 
-### Items 
-- Magic item limit is 2 items
-  - Tell me what your want before you add it to your character, so I can check it
-- 1 Consumable - (ie; potions etc)
-  - Tell me what your want before you add it to your character, so I can check it
-
-*Stat improvement items such will be counted in your magic item limit (eg; Tome of Understanding)*
-
-If you don't pick one by the one-shot date, you will get:
-- +2 weapon 
-- Greater potion of Healing 
-
-### Magic 
-- No Simulacrum 
-- Stick to official dnd spells
-  - 3rd party supported on dnd beyond doesn't count 
-- Let me know your prepared spell list 
-  - Spell component budget will be determined later <3
 
 
 

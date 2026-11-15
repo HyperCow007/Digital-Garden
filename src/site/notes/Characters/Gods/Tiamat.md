@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/characters/gods/tiamat/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-09-26T22:55:55.742+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/gods/tiamat/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-11-11T17:15:32.855+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 Titles: The Queen of Tyranny, Mother of Dragons, The World-Breaker.
-![Pasted image 20260319162944.png\|437](/img/user/Images/Pasted%20image%2020260319162944.png)
+![Tiamat Concept.png\|437](/img/user/Images/Tiamat%20Concept.png)
 
-![Pasted image 20260404160220.png\|444](/img/user/Images/Pasted%20image%2020260404160220.png)
+![Tiamat Human Concept.png\|444](/img/user/Images/Tiamat%20Human%20Concept.png)
 
 # Lore
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/myths/nishek-anak/","created":"2026-04-04T16:36:58.617+10:30","updated":"2026-09-27T16:47:30.037+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/myths/nishek-anak/","created":"2026-04-04T16:36:58.617+10:30","updated":"2026-11-11T17:15:50.861+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 Titles: The World Engine, The Last Calamity, Absolute Destroyer
-![Pasted image 20260405125942.png\|412](/img/user/Images/Pasted%20image%2020260405125942.png)
+![Nishek Anak Concept.png\|412](/img/user/Images/Nishek%20Anak%20Concept.png)
 
 *Nish-ek  An-ak*
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/gods/bahamut/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-09-26T22:56:04.272+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/gods/bahamut/","created":"2026-03-19T15:53:43.891+10:30","updated":"2026-11-11T17:15:00.029+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 
 Titles: The Platinum King, The Final Arbiter, Father of Dragons, The Last God
-![Pasted image 20260404135703.png\|494](/img/user/Images/Pasted%20image%2020260404135703.png)
+![Bahamut Concept.png\|494](/img/user/Images/Bahamut%20Concept.png)
 
 # Lore
 

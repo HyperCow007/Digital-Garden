@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/zauber-verhexen/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-09-27T16:46:05.405+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/characters/zauber-verhexen/ainzbeth/","created":"2026-03-19T15:48:57.695+10:30","updated":"2026-11-11T17:14:10.246+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 Titles: The First and Final Mage, the Undying Archon, Mother of Modern Day Magic, The One who Refused Death, those are some of her many titles.
-![Pasted image 20260404142122.png](/img/user/Images/Pasted%20image%2020260404142122.png)
+![Ainzbeth Concept.png](/img/user/Images/Ainzbeth%20Concept.png)
 
 
 (*Ainz-beth*)
