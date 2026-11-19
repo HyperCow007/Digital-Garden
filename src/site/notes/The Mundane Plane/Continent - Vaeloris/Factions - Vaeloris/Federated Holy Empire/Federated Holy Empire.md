@@ -1,16 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/factions-vaeloris/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-10-07T14:07:41.857+10:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/factions-vaeloris/federated-holy-empire/federated-holy-empire/","created":"2026-03-24T13:12:12.375+10:30","updated":"2026-11-15T13:17:07.769+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 ![Pasted image 20261007140732.png](/img/user/Images/Pasted%20image%2020261007140732.png)
 
-[[The Mundane Plane/History/Age of Accord/The Founding of the Federated Holy Empire\|The Founding of the Federated Holy Empire]], was a long road with many pieces in place to keep it function, to maintain peace and order throughout the realm. The Capital is the Floating City [[The Mundane Plane/Luminaryx\|Luminaryx]], a city which has the capacity to fly around the world but now days is anchored on the continent of Vaeloris. Hovering by the city of **""** located in [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
+
+[[The Mundane Plane/History/Age of Accord/The Founding of the Federated Holy Empire\|The Founding of the Federated Holy Empire]], was a long road with many pieces in place to keep it function, to maintain peace and order throughout the realm. The Capital is the Floating City [[The Mundane Plane/Luminaryx\|Luminaryx]], a city which has the capacity to fly around the world but now days is anchored on the continent of Vaeloris. Hovering by the city of [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/Glintwater Basin/Cities/The Holy City of Antax\|The Holy City of Antax]]  located in [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/The Gilded Heart\|The Gilded Heart]]
 
 There are three main pillars of the Federated Holy Empire. 
 - [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/The Royal Family/The Royal Family\|The Royal Family]]
 - [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Church of Bahamut/The Faith\|The Faith]]
-- [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military\|The Imperial Military]]
+- [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military/The Imperial Military\|The Imperial Military]]
 There are other import aspects, but these three are the core foundation.
+
+## Noble Houses
+[[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/House Fernza/House Fernza\|House Fernza]]
+[[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/House Garalas/House Garalas\|House Garalas]]
+[[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/House Naburus/House Naburus\|House Naburus]]
+[[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/House Oris/House Oris\|House Oris]]
+[[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/House Vorn/House Vorn\|House Vorn]]
+
 
 ## Territory on Vaeloris  
 
@@ -23,8 +32,6 @@ There are other import aspects, but these three are the core foundation.
 [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/Aurelian Vale/Aurelian Vale\|Aurelian Vale]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/Glintwater Basin/Glintwater Basin\|Glintwater Basin]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/Sunstone Heights/Sunstone Heights\|Sunstone Heights]], are held by the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], as it is the seat of the Empire.
 
 [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Gilded Heart/Dawnspire/Dawnspire\|Dawnspire]] - The northern most part of the region, bordering the mountain range of  [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/The Mantle/The Mantle\|The Mantle]], currently contested on the most northern sides.
-
-
 
 ### The Southern Dunes 
  [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Valoc Ridge/Valoc Ridge\|Valoc Ridge]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Glasswind Dunes/Glasswind Dunes\|Glasswind Dunes]], [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Southern Dunes/Darsha Sands/Darsha Sands\|Darsha Sands]] are held by the  [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], The Searing Expanse has been to uninhabitable to consider holding or investing in.

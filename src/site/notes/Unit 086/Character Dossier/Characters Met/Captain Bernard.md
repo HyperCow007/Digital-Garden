@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/captain-bernard/","created":"2026-05-16T19:03:05.633+09:30","updated":"2026-11-13T20:05:59.312+10:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/unit-086/character-dossier/characters-met/captain-bernard/","created":"2026-05-16T19:03:05.633+09:30","updated":"2026-11-15T12:15:13.636+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 ![Pasted image 20260905163152.png\|313](/img/user/Images/Pasted%20image%2020260905163152.png)
@@ -10,3 +10,5 @@ Titles: The Hero Knight
 - Age 25, Human Male
 - Captain sent my from Glintwater 
 - Knight of renowed  
+- [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Noble Houses/House Garalas/House Garalas\|House Garalas]]
+

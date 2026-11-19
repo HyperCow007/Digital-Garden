@@ -3,7 +3,7 @@
 ---
 
 ![Pasted image 20261001150657.png\|220](/img/user/Images/Pasted%20image%2020261001150657.png)
-The Royal family is a line chosen by Bahamut himself, in the eyes of [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Church of Bahamut/The Faith\|The Faith]] they are a symbol that the path the mortals are on is the right path, the Faith act as advisors to the family. The highest ranks of the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military\|The Imperial Military]] report directly to the Emperor himself.
+The Royal family is a line chosen by Bahamut himself, in the eyes of [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Church of Bahamut/The Faith\|The Faith]] they are a symbol that the path the mortals are on is the right path, the Faith act as advisors to the family. The highest ranks of the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military/The Imperial Military\|The Imperial Military]] report directly to the Emperor himself.
 
 # The Kayzar Dynasty
 Rulers of the Federated Holy Empire

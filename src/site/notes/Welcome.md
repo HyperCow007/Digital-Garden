@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-11-03T12:05:48.021+10:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-11-19T16:31:18.938+10:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260503221714.png](/img/user/Images/Pasted%20image%2020260503221714.png)
@@ -18,11 +18,10 @@ This is a world of instability and opportunity.
 A world where legends are not born, they are made. 
 
 
+
 Read about brief about the world history here, [[The Mundane Plane/In World Written History\|In World Written History]] 
 
 Here you can find basic information about [[The Mundane Plane/The Realm\|The Realm]] (Not all the regions have been fleshed out yet)
-
-
 
 # Campaign Overview
 

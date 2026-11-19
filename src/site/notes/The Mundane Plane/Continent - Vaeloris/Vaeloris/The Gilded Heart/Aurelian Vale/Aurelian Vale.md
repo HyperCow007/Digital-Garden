@@ -9,7 +9,7 @@ The Aurelian Vale once connected with the mainland, however events during the [[
 - The Veil Fog, a mist that distorts memory and direction 
 - Rare material can be found be found with the mountain range. 
 
-Due to the hazards no permanent settlements from the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]] exist, beside from a single [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military\|The Imperial Military]] outpost. 
+Due to the hazards no permanent settlements from the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]] exist, beside from a single [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military/The Imperial Military\|The Imperial Military]] outpost. 
 
 ### Forts
 - The Aurelian Stronghold 

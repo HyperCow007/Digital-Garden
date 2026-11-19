@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/factions-vaeloris/federated-holy-empire/the-church-of-bahamut/the-faith/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-10-14T16:43:14.497+10:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/factions-vaeloris/federated-holy-empire/the-church-of-bahamut/the-faith/","created":"2026-03-24T13:20:14.681+10:30","updated":"2026-11-19T16:34:23.835+10:30","dg-note-properties":{"Updated":null}}
 ---
 
+![Pasted image 20261119163416.png\|700](/img/user/Images/Pasted%20image%2020261119163416.png)
 
 The Faith is what the people call the primary religious order. The Faith worships and teaches the values of [[Characters/Gods/Bahamut\|Bahamut]]. They have the trust of the common folk and are key in keeping order within settlements. 
 
 The Faith is typically in charge of religious practices, law, and handle typically bureaucracy along side with city council members. 
 
-The Faith and [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military\|The Imperial Military]] are known to disagree with each other, over a many difference of opinions and the way they handle affairs.
+The Faith and [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military/The Imperial Military\|The Imperial Military]] are known to disagree with each other, over a many difference of opinions and the way they handle affairs.
 
-The Faith, are the arbiters of justice and control the courts as a result they are usually the one's who sentence people to prison or the worst case being sentencing them to join the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Legend Units\|The Legend Units]].
+The Faith, are the arbiters of justice and control the courts as a result they are usually the one's who sentence people to prison or the worst case being sentencing them to join the [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military/The Legend Units\|The Legend Units]].
 
 
 # The Faith of Bahamut
@@ -37,7 +38,7 @@ A sacred new year festival dedicated to [[Characters/Gods/Bahamut\|Bahamut]], ma
 A ritual for Soldiers, Imperial Officials, Licensed mages
 
 Participants swear binding oaths under [[Characters/Gods/Bahamut\|Bahamut]] name.
-- Breaking a Oath is both a crime and a sin (a crime worthy of [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Legend Units\|The Legend Units]])
+- Breaking a Oath is both a crime and a sin (a crime worthy of [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/The Imperial Military/The Legend Units\|The Legend Units]])
 
 ### The Ashen Remembrance 
 Tied directly to [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]]. 

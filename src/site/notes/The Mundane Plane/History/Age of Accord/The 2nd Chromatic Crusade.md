@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-2nd-chromatic-crusade/","created":"2026-04-22T12:25:13.160+09:30","updated":"2026-09-23T16:01:10.129+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/history/age-of-accord/the-2nd-chromatic-crusade/","created":"2026-04-22T12:25:13.160+09:30","updated":"2026-11-17T16:05:38.520+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 
-231st–232nd Year of the Age of Accord 
+231st–232nd  Age of Accord 
 
 Following the devastation of the First Crusade, marked by the infamous [[The Mundane Plane/History/Age of Accord/The Battle of Ashen Night\|The Battle of Ashen Night]] in 217, [[Characters/Gods/Tiamat\|Tiamat]] rose once more. Though diminished, she had regained enough strength to rally her fractured armies and renew her campaign across [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]].
 

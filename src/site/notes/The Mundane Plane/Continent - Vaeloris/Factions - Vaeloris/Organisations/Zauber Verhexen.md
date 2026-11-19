@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/factions-vaeloris/organisations/zauber-verhexen/","created":"2026-04-04T14:01:55.119+10:30","updated":"2026-06-24T10:05:55.696+09:30","dg-note-properties":{"Updated":null}}
+{"dg-publish":true,"permalink":"/the-mundane-plane/continent-vaeloris/factions-vaeloris/organisations/zauber-verhexen/","created":"2026-04-04T14:01:55.119+10:30","updated":"2026-11-19T16:26:14.574+10:30","dg-note-properties":{"Updated":null}}
 ---
 
 
@@ -16,7 +16,7 @@ Current Members:
 The Sage, a wandering druid 
 [[Characters/Zauber Verhexen/Octavia\|Octavia]]
 [[Characters/Zauber Verhexen/Jadu\|Jadu]], Oracle of the Lunar Veil
-Galdur, a mage from [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
+[[The Mundane Plane/Factions/Adventures Guild/Notable Solos/Galdur\|Galdur]], a mage from [[The Mundane Plane/Continent - Vaeloris/Vaeloris/The Northern Reach/The Northern Reach\|The Northern Reach]]
 Maho, the most well know magical tinker (artificer)
 
 

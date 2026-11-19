@@ -5,7 +5,7 @@
 
 The [[The Mundane Plane/Continent - Vaeloris/Factions - Vaeloris/Federated Holy Empire/Federated Holy Empire\|Federated Holy Empire]], has a classification system to determine power level. This is typically based on training, merit, and experience. 
 
-To go up in rank, a participant requires another person of a higher rank to act as witness to determine if the participant is cable reaching the next stage. This is typically conducted by the [[The Mundane Plane/Factions/Adventures Guild\|Adventures Guild]]. 
+To go up in rank, a participant requires another person of a higher rank to act as witness to determine if the participant is cable reaching the next stage. This is typically conducted by the [[The Mundane Plane/Factions/Adventures Guild/Adventures Guild\|Adventures Guild]]. 
 
 # Power Class
 
