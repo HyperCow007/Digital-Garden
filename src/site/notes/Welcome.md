@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-11-19T16:31:18.938+10:30","dg-note-properties":{"Updated":false}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-03-19T15:07:40.676+10:30","updated":"2026-11-21T22:43:01.547+10:30","dg-note-properties":{"Updated":false}}
 ---
 
 ![Pasted image 20260503221714.png](/img/user/Images/Pasted%20image%2020260503221714.png)
@@ -31,7 +31,7 @@ Here you can find basic information about [[The Mundane Plane/The Realm\|The Rea
 
 | Unit 086 (PF) | Year      | Character Level (CL)     | The Pack | Year      | CL  |
 | ------------- | --------- | ------------------------ | -------- | --------- | --- |
-| [[Unit 086/Sessions/20\|20]]        | 288th AOA | 5                        |          |           |     |
+| [[Unit 086/Sessions/20\|20]]        | 288th AOA | 5 -> 6                   |          |           |     |
 | [[Unit 086/Sessions/19\|19]]        | 288th AOA | 4 -> 5 (Rename The Pack) |          |           |     |
 | [[Unit 086/Sessions/18\|18]]        | 288th AOA | 4                        |          |           |     |
 | [[Unit 086/Sessions/17\|17]]        | 288th AOA | 4                        |          |           |     |
